@@ -1,0 +1,126 @@
+[
+    {
+        "current_characteristics": "MM_PROD_CAT_SV_TYPE",
+        "mdg_characteristics": "CATEGORY-SERVICE-GROUP"
+    },
+    {
+        "current_characteristics": "MM_PROD_CAT_SV",
+        "mdg_characteristics": "SERVICE-CATEGORY-TYPE"
+    },
+    {
+        "current_characteristics": "MM_SV_PROD_GROUP",
+        "mdg_characteristics": "SERVICE-PROD-GROUP"
+    },
+    {
+        "current_characteristics": "MM_SV_PROD_NAME",
+        "mdg_characteristics": "SERVICE-PROD-NAME"
+    },
+    {
+        "current_characteristics": "MM_SV_PROD_CMP",
+        "mdg_characteristics": "SERVICE-PROD-COMPONENT"
+    },
+    {
+        "current_characteristics": "MM_SV_TYPE",
+        "mdg_characteristics": "SERVICE-TYPE"
+    },
+    {
+        "current_characteristics": "MM_DURATION",
+        "mdg_characteristics": "SERVICE-OFFERING-DURATION"
+    },
+    {
+        "current_characteristics": "MM_MEDIA_METHOD",
+        "mdg_characteristics": "MEDIA-METHOD-NAME"
+    },
+    {
+        "current_characteristics": "MM_SERVICE_LOCATION",
+        "mdg_characteristics": "SERVICE-LOCATION"
+    },
+    {
+        "current_characteristics": "MM_SERV_OPTIONS",
+        "mdg_characteristics": "SERVICE-OPTIONS"
+    },
+    {
+        "current_characteristics": "MM-FEATURE",
+        "mdg_characteristics": "PRODUCT-FEATURE"
+    },
+    {
+        "current_characteristics": "AES_INSTR_SET_IND",
+        "mdg_characteristics": "AES-INSTRUCTION-SET-IND"
+    },
+    {
+        "current_characteristics": "WARRANTY_ONSITE_SLA_CD",
+        "mdg_characteristics": "WARRANTY-ONSITE-SLA-CD"
+    },
+    {
+        "current_characteristics": "WARRANTY_PARTS_SLA_CD",
+        "mdg_characteristics": "WARRANTY-PARTS-SLA-CD"
+    },
+    {
+        "current_characteristics": "ADVANCED_WRNTY_REPLACEMENT_IND",
+        "mdg_characteristics": "ADV-WARRANTY-REPLACEMENT-IND"
+    },
+    {
+        "current_characteristics": "WARRANTY_RENEWABLE_IND",
+        "mdg_characteristics": "WARRANTY-RENEWABLE-IND"
+    },
+    {
+        "current_characteristics": "WARRANTY_MASTER_IND",
+        "mdg_characteristics": "WARRANTY-MASTER-IND"
+    },
+    {
+        "current_characteristics": "SERIAL_NUMBER_REQUIRED_IND",
+        "mdg_characteristics": "SERIAL-NUMBER-REQ-IND"
+    },
+    {
+        "current_characteristics": "SUB_COMPONENT_CATEGORY_NAME",
+        "mdg_characteristics": "SUB-COMPONENT-CATEGORY"
+    },
+    {
+        "current_characteristics": "SOLUTION_LEVEL_ENTITLEMENT",
+        "mdg_characteristics": "SOLUTION-LEVEL-ENTITLE"
+    },
+    {
+        "current_characteristics": "SOFT_SKU_UPGRADE_IND",
+        "mdg_characteristics": "SOFT-SKU-UPGRADE-IND"
+    },
+    {
+        "current_characteristics": "MM_LICENSE_SPEC",
+        "mdg_characteristics": NaN
+    },
+    {
+        "current_characteristics": "MM_MEDIA_UPDATE_MTD",
+        "mdg_characteristics": NaN
+    },
+    {
+        "current_characteristics": "FGR_GROUPING_CODE",
+        "mdg_characteristics": NaN
+    },
+    {
+        "current_characteristics": "PREV_REF_ID",
+        "mdg_characteristics": "PREVIOUS-REFERENCE-ID"
+    },
+    {
+        "current_characteristics": "MM-ITEM-MARKET-NAME",
+        "mdg_characteristics": "ITEM-MARKET-NAME"
+    },
+    {
+        "current_characteristics": "PS-COMMENTS",
+        "mdg_characteristics": "COMMENTS"
+    },
+    {
+        "current_characteristics": "EPM_ID",
+        "mdg_characteristics": "EXTERNAL-PRODUCT-ID"
+    },
+    {
+        "current_characteristics": "MM-ENCRYPT",
+        "mdg_characteristics": "ENCRYPTION"
+    },
+    {
+        "current_characteristics": "MM-ENCRY-CODE",
+        "mdg_characteristics": "ENCRYPTION-CODE-NAME"
+    },
+    {
+        "current_characteristics": "MM-ENCRY-KEY",
+        "mdg_characteristics": "ENCRYPTION-KEY-LENGTH"
+    }
+]
