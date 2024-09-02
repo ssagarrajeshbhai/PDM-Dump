@@ -1,0 +1,86 @@
+[
+    {
+        "speed_item_description": "Design",
+        "s4_material_description": "Design",
+        "s4_material_staus_code": 20.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "ECC_Review",
+        "s4_material_description": "Design",
+        "s4_material_staus_code": 20.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Review",
+        "s4_material_description": "Design",
+        "s4_material_staus_code": 20.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Preliminary",
+        "s4_material_description": "Preliminary",
+        "s4_material_staus_code": 30.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Model",
+        "s4_material_description": "Prototype",
+        "s4_material_staus_code": 40.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Proto",
+        "s4_material_description": "Prototype",
+        "s4_material_staus_code": 40.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Un Qual",
+        "s4_material_description": "Production \u2013 Mass (previously design)",
+        "s4_material_staus_code": 50.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Conditional",
+        "s4_material_description": "Production - Mass",
+        "s4_material_staus_code": 50.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Prodn_Approved",
+        "s4_material_description": "Production - Mass",
+        "s4_material_staus_code": 50.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "EOL",
+        "s4_material_description": "Production \u2013 Mass (previously obsolete)",
+        "s4_material_staus_code": 50.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Obsolete",
+        "s4_material_description": "Inactive",
+        "s4_material_staus_code": 60.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Inactive",
+        "s4_material_description": "Inactive",
+        "s4_material_staus_code": 60.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Archive Only",
+        "s4_material_description": "Obsolete",
+        "s4_material_staus_code": 70.0,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    },
+    {
+        "speed_item_description": "Acquisition",
+        "s4_material_description": NaN,
+        "s4_material_staus_code": NaN,
+        "comments": "Final payload needs to have the S4 X-Plant Material Status Code"
+    }
+]
