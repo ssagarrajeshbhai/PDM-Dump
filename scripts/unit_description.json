@@ -1,0 +1,398 @@
+[
+    {
+        "speed_unit": "BO",
+        "speed_unit_description": "Bottle",
+        "mdg_unit": "BT",
+        "mdg_unit_description": "BOTTLE"
+    },
+    {
+        "speed_unit": "BOG",
+        "speed_unit_description": "Bottle: Glass",
+        "mdg_unit": "BT",
+        "mdg_unit_description": "Bottle Glass"
+    },
+    {
+        "speed_unit": "BOP",
+        "speed_unit_description": "Bottle: Plastic",
+        "mdg_unit": "BT",
+        "mdg_unit_description": "Bottle Plastic"
+    },
+    {
+        "speed_unit": "CN",
+        "speed_unit_description": "CANISTER",
+        "mdg_unit": "CAN",
+        "mdg_unit_description": "Canister"
+    },
+    {
+        "speed_unit": "DA",
+        "speed_unit_description": "Day",
+        "mdg_unit": "D",
+        "mdg_unit_description": "Days"
+    },
+    {
+        "speed_unit": "DRF",
+        "speed_unit_description": "Drum: Fiber",
+        "mdg_unit": "DR",
+        "mdg_unit_description": "Drum Fiber"
+    },
+    {
+        "speed_unit": "DRN",
+        "speed_unit_description": "Drum: Plastic/Non-Metallic",
+        "mdg_unit": "DR",
+        "mdg_unit_description": "Drum Plastic/Non-Metallic"
+    },
+    {
+        "speed_unit": "DRS",
+        "speed_unit_description": "Drum: Steel",
+        "mdg_unit": "DR",
+        "mdg_unit_description": "Drum Steel"
+    },
+    {
+        "speed_unit": "KI",
+        "speed_unit_description": "Crate",
+        "mdg_unit": "CRT",
+        "mdg_unit_description": "Crate"
+    },
+    {
+        "speed_unit": "LT",
+        "speed_unit_description": "Liter",
+        "mdg_unit": "L",
+        "mdg_unit_description": "Litre"
+    },
+    {
+        "speed_unit": "MR",
+        "speed_unit_description": "Meter",
+        "mdg_unit": "M",
+        "mdg_unit_description": "Metre"
+    },
+    {
+        "speed_unit": "PH",
+        "speed_unit_description": "Pack",
+        "mdg_unit": "PAC",
+        "mdg_unit_description": "Pack"
+    },
+    {
+        "speed_unit": "PI",
+        "speed_unit_description": "PAIL",
+        "mdg_unit": "PA",
+        "mdg_unit_description": "Pail"
+    },
+    {
+        "speed_unit": "PK",
+        "speed_unit_description": "Package",
+        "mdg_unit": "PAC",
+        "mdg_unit_description": "Package"
+    },
+    {
+        "speed_unit": "RL",
+        "speed_unit_description": "Roll",
+        "mdg_unit": "ROL",
+        "mdg_unit_description": "Roll"
+    },
+    {
+        "speed_unit": "SP",
+        "speed_unit_description": "Spool",
+        "mdg_unit": "SO",
+        "mdg_unit_description": "SPOOL"
+    },
+    {
+        "speed_unit": "UT",
+        "speed_unit_description": "Units",
+        "mdg_unit": "EA",
+        "mdg_unit_description": "UNIT-Storage Unit ?"
+    },
+    {
+        "speed_unit": "AM",
+        "speed_unit_description": "Ampoule",
+        "mdg_unit": "AM",
+        "mdg_unit_description": "Ampoule"
+    },
+    {
+        "speed_unit": "BAG",
+        "speed_unit_description": "Bag",
+        "mdg_unit": "BAG",
+        "mdg_unit_description": "Bag"
+    },
+    {
+        "speed_unit": "BP",
+        "speed_unit_description": "BrightPak",
+        "mdg_unit": "BP",
+        "mdg_unit_description": "BrightPak"
+    },
+    {
+        "speed_unit": "BX",
+        "speed_unit_description": "Box",
+        "mdg_unit": "BX",
+        "mdg_unit_description": "Box"
+    },
+    {
+        "speed_unit": "CA",
+        "speed_unit_description": "Case",
+        "mdg_unit": "CA",
+        "mdg_unit_description": "Case"
+    },
+    {
+        "speed_unit": "CAN",
+        "speed_unit_description": "Can",
+        "mdg_unit": "CAN",
+        "mdg_unit_description": "Can"
+    },
+    {
+        "speed_unit": "CB",
+        "speed_unit_description": "Carboy",
+        "mdg_unit": "CB",
+        "mdg_unit_description": "Carboy"
+    },
+    {
+        "speed_unit": "CF",
+        "speed_unit_description": "Cubic Feet",
+        "mdg_unit": "CF",
+        "mdg_unit_description": "Cubic Foot"
+    },
+    {
+        "speed_unit": "CH",
+        "speed_unit_description": "Container",
+        "mdg_unit": "CH",
+        "mdg_unit_description": "CONTAINER"
+    },
+    {
+        "speed_unit": "CL",
+        "speed_unit_description": "Cylinder",
+        "mdg_unit": "CL",
+        "mdg_unit_description": "Cylinder"
+    },
+    {
+        "speed_unit": "CM",
+        "speed_unit_description": "Centimeter",
+        "mdg_unit": "CM",
+        "mdg_unit_description": "Centimetre"
+    },
+    {
+        "speed_unit": "CT",
+        "speed_unit_description": "Carton",
+        "mdg_unit": "CT",
+        "mdg_unit_description": "Carton"
+    },
+    {
+        "speed_unit": "DEW",
+        "speed_unit_description": "Dewar",
+        "mdg_unit": "DEW",
+        "mdg_unit_description": "Dewar"
+    },
+    {
+        "speed_unit": "DR",
+        "speed_unit_description": "Drum",
+        "mdg_unit": "DR",
+        "mdg_unit_description": "Drum"
+    },
+    {
+        "speed_unit": "DZ",
+        "speed_unit_description": "Dozen",
+        "mdg_unit": "DZ",
+        "mdg_unit_description": "Dozen"
+    },
+    {
+        "speed_unit": "EA",
+        "speed_unit_description": "Each",
+        "mdg_unit": "EA",
+        "mdg_unit_description": "each"
+    },
+    {
+        "speed_unit": "FT",
+        "speed_unit_description": "Feet",
+        "mdg_unit": "FT",
+        "mdg_unit_description": "Foot"
+    },
+    {
+        "speed_unit": "GA",
+        "speed_unit_description": "Gallons",
+        "mdg_unit": "GA",
+        "mdg_unit_description": "Gallon (US)"
+    },
+    {
+        "speed_unit": "GM",
+        "speed_unit_description": "Gram",
+        "mdg_unit": "GM",
+        "mdg_unit_description": "Gram"
+    },
+    {
+        "speed_unit": "HR",
+        "speed_unit_description": "Hour",
+        "mdg_unit": "HR",
+        "mdg_unit_description": "Hour"
+    },
+    {
+        "speed_unit": "IN",
+        "speed_unit_description": "Inch",
+        "mdg_unit": "IN",
+        "mdg_unit_description": "Inches"
+    },
+    {
+        "speed_unit": "JR",
+        "speed_unit_description": "Jar",
+        "mdg_unit": "JR",
+        "mdg_unit_description": "JAR"
+    },
+    {
+        "speed_unit": "KG",
+        "speed_unit_description": "Kilogram",
+        "mdg_unit": "KG",
+        "mdg_unit_description": "Kilogram"
+    },
+    {
+        "speed_unit": "KT",
+        "speed_unit_description": "Kit",
+        "mdg_unit": "KT",
+        "mdg_unit_description": "Kit"
+    },
+    {
+        "speed_unit": "LB",
+        "speed_unit_description": "Pounds",
+        "mdg_unit": "LB",
+        "mdg_unit_description": "Pound"
+    },
+    {
+        "speed_unit": "ME",
+        "speed_unit_description": "Milligram",
+        "mdg_unit": "ME",
+        "mdg_unit_description": "Milligram"
+    },
+    {
+        "speed_unit": "ML",
+        "speed_unit_description": "Milliliter",
+        "mdg_unit": "ML",
+        "mdg_unit_description": "Millilitre"
+    },
+    {
+        "speed_unit": "MM",
+        "speed_unit_description": "Millimeter",
+        "mdg_unit": "MM",
+        "mdg_unit_description": "Millimetre"
+    },
+    {
+        "speed_unit": "NP",
+        "speed_unit_description": "NPack",
+        "mdg_unit": "NP",
+        "mdg_unit_description": "NowPak"
+    },
+    {
+        "speed_unit": "OZ",
+        "speed_unit_description": "Ounce",
+        "mdg_unit": "OZ",
+        "mdg_unit_description": "Ounce"
+    },
+    {
+        "speed_unit": "PC",
+        "speed_unit_description": "Piece",
+        "mdg_unit": "PC",
+        "mdg_unit_description": "Piece"
+    },
+    {
+        "speed_unit": "PR",
+        "speed_unit_description": "PAIR",
+        "mdg_unit": "PR",
+        "mdg_unit_description": "Pair"
+    },
+    {
+        "speed_unit": "PT",
+        "speed_unit_description": "Pint",
+        "mdg_unit": "PT",
+        "mdg_unit_description": "Liquid pint (US)"
+    },
+    {
+        "speed_unit": "QT",
+        "speed_unit_description": "Quart",
+        "mdg_unit": "QT",
+        "mdg_unit_description": "Liquid quart (US)"
+    },
+    {
+        "speed_unit": "RE",
+        "speed_unit_description": "Reel",
+        "mdg_unit": "RE",
+        "mdg_unit_description": "Reel"
+    },
+    {
+        "speed_unit": "SF",
+        "speed_unit_description": "Square Feet",
+        "mdg_unit": "SF",
+        "mdg_unit_description": "Square Foot"
+    },
+    {
+        "speed_unit": "SH",
+        "speed_unit_description": "Sheet",
+        "mdg_unit": "SH",
+        "mdg_unit_description": "Sheet"
+    },
+    {
+        "speed_unit": "SI",
+        "speed_unit_description": "Square Inch",
+        "mdg_unit": "SI",
+        "mdg_unit_description": "Square Inch"
+    },
+    {
+        "speed_unit": "SIL",
+        "speed_unit_description": "Silo",
+        "mdg_unit": "SIL",
+        "mdg_unit_description": "Silo"
+    },
+    {
+        "speed_unit": "ST",
+        "speed_unit_description": "Set",
+        "mdg_unit": "ST",
+        "mdg_unit_description": "SET"
+    },
+    {
+        "speed_unit": "SY",
+        "speed_unit_description": "Square Yard",
+        "mdg_unit": "SY",
+        "mdg_unit_description": "Square Yard"
+    },
+    {
+        "speed_unit": "TB",
+        "speed_unit_description": "Tube",
+        "mdg_unit": "TB",
+        "mdg_unit_description": "Tube"
+    },
+    {
+        "speed_unit": "TE",
+        "speed_unit_description": "Tote",
+        "mdg_unit": "TE",
+        "mdg_unit_description": "TOTE"
+    },
+    {
+        "speed_unit": "TH",
+        "speed_unit_description": "Thousand",
+        "mdg_unit": "TH",
+        "mdg_unit_description": "Thousands"
+    },
+    {
+        "speed_unit": "TKI",
+        "speed_unit_description": "Tank: Indoor",
+        "mdg_unit": "TKI",
+        "mdg_unit_description": "Tank Indoor"
+    },
+    {
+        "speed_unit": "TKO",
+        "speed_unit_description": "Tank: Outdoor",
+        "mdg_unit": "TKO",
+        "mdg_unit_description": "Tank Outdoor"
+    },
+    {
+        "speed_unit": "TO",
+        "speed_unit_description": "Troy Ounce",
+        "mdg_unit": "TO",
+        "mdg_unit_description": "Troy ounce or apothecary ounce"
+    },
+    {
+        "speed_unit": "WAF",
+        "speed_unit_description": "Wafer",
+        "mdg_unit": "WAF",
+        "mdg_unit_description": "Wafer"
+    },
+    {
+        "speed_unit": "YD",
+        "speed_unit_description": "Yard",
+        "mdg_unit": "YD",
+        "mdg_unit_description": "Yard"
+    }
+]
