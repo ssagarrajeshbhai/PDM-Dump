@@ -1,0 +1,98 @@
+[
+    {
+        "source": "SPEED",
+        "division": "IP",
+        "s_4_material_type": "DIEN",
+        "material_type": "DIEN"
+    },
+    {
+        "source": "SPEED",
+        "division": "IF",
+        "s_4_material_type": "DIEN",
+        "material_type": "DIEN"
+    },
+    {
+        "source": "SPEED",
+        "division": "IP",
+        "s_4_material_type": "DIEN",
+        "material_type": "INTG"
+    },
+    {
+        "source": "SPEED",
+        "division": "IF",
+        "s_4_material_type": "DIEN",
+        "material_type": "INTG"
+    },
+    {
+        "source": "SPEED",
+        "division": "IP",
+        "s_4_material_type": "FERT",
+        "material_type": "FERT"
+    },
+    {
+        "source": "SPEED",
+        "division": "IF",
+        "s_4_material_type": "HALB",
+        "material_type": "FERT(Existing)"
+    },
+    {
+        "source": "SPEED",
+        "division": "IP",
+        "s_4_material_type": "FERT",
+        "material_type": "KITS"
+    },
+    {
+        "source": "SPEED",
+        "division": "IF",
+        "s_4_material_type": "FERT",
+        "material_type": "KITS"
+    },
+    {
+        "source": "SPEED",
+        "division": "IP",
+        "s_4_material_type": "HALB",
+        "material_type": "HALB"
+    },
+    {
+        "source": "SPEED",
+        "division": "IF",
+        "s_4_material_type": "HALB",
+        "material_type": "HALB"
+    },
+    {
+        "source": "SPEED",
+        "division": "IP",
+        "s_4_material_type": "HALB",
+        "material_type": "RAPP"
+    },
+    {
+        "source": "SPEED",
+        "division": "IF",
+        "s_4_material_type": "HALB",
+        "material_type": "RAPP"
+    },
+    {
+        "source": "SPEED",
+        "division": "IP",
+        "s_4_material_type": "ROH",
+        "material_type": "ROH"
+    },
+    {
+        "source": "SPEED",
+        "division": "IF",
+        "s_4_material_type": "ROH",
+        "material_type": "ROH"
+    },
+    {
+        "source": "SPEED",
+        "division": "IP",
+        "s_4_material_type": "ROH",
+        "material_type": "ZROH"
+    },
+    {
+        "source": "SPEED",
+        "division": "IF",
+        "s_4_material_type": "ROH",
+        "material_type": "ZROH"
+    }
+]
