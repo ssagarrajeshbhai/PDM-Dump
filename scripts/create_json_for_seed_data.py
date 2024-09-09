@@ -39,11 +39,11 @@ payload_obj = {
 }
 
 
-def generate_sample_data():
+def generate_sample_data(count):
     final_json = []
     # for i in range(50):
 
-    for t_id in range(10):
+    for t_id in range(20):
         trans = {
             "transaction_id": transaction_id_list[t_id],
             "material_type": random.choice(material_type_list),
@@ -54,19 +54,19 @@ def generate_sample_data():
 
         if trans["success_flag"]:
             trans["succes_payload"] = trans["incoming_payload"]
-            trans["error_id"] = None,
+            trans["error_id"] = None
             trans["event_status_message"] = "Success"
         else:
             trans["succes_payload"] = None
-            trans["error_id"] = random.choice(error_id_list),
+            trans["error_id"] = f'{random.choice(error_id_list)}'
             trans["event_status_message"] = "Failed"
 
         final_json.append(trans)
 
     return json.dumps(final_json, indent=3)
 
-
-j_data = generate_sample_data()
-file_name = 'data.json'
+count = 1
+j_data = generate_sample_data(count)
+file_name = f'data{count}.json'
 with open(file_name, 'w') as json_writer:
     json_writer.write(j_data)

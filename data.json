@@ -1,7 +1,7 @@
 [
    {
       "transaction_id": "667659987201620001",
-      "material_type": "c6ff77b4-752f-4500-8c64-6134926fface",
+      "material_type": "14d1b704-4747-4d51-a1e8-f33bace90bdb",
       "mmid": "mmid1",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -39,51 +39,14 @@
             }
          }
       },
-      "success_flag": "True",
-      "succes_payload": {
-         "transactionId": "123e4567e89b12d3a456426614174000",
-         "item": {
-            "basicData": {
-               "materialNumber": "",
-               "materialType": "",
-               "materialGroup": "",
-               "grossWeight": 2.3,
-               "transportationGroup": 3,
-               "netWeight": 3,
-               "crossPlantStatusCode": 12,
-               "division": 1,
-               "waferConductivityType": "sdf",
-               "waferSpecialIdCode": "12344s",
-               "waferSequenceCode": "aas2",
-               "supplierCode": "23gg"
-            },
-            "classificationData": {
-               "characteristicName": "",
-               "characteristicValue": "a",
-               "class": "",
-               "classType": 4
-            },
-            "hierarchyLinkData": {
-               "forecastClass": "",
-               "forecastDevice": "",
-               "forecastPackage": ""
-            },
-            "materialLongText": {
-               "lineNumber": 12345,
-               "applicationObject": "",
-               "textName": "",
-               "textId": 1244
-            }
-         }
-      },
-      "error_id": [
-         null
-      ],
-      "event_status_message": "Success"
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "272a15bd-1956-4f5b-8e3f-b545b7f644ea",
+      "event_status_message": "Failed"
    },
    {
       "transaction_id": "667659987201620002",
-      "material_type": "a7cf1109-a1b5-4e84-9aa6-c4996a076310",
+      "material_type": "50633b2f-641a-4a2b-b61a-a80fd9a1b662",
       "mmid": "mmid2",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -121,51 +84,14 @@
             }
          }
       },
-      "success_flag": "False",
-      "succes_payload": {
-         "transactionId": "123e4567e89b12d3a456426614174000",
-         "item": {
-            "basicData": {
-               "materialNumber": "",
-               "materialType": "",
-               "materialGroup": "",
-               "grossWeight": 2.3,
-               "transportationGroup": 3,
-               "netWeight": 3,
-               "crossPlantStatusCode": 12,
-               "division": 1,
-               "waferConductivityType": "sdf",
-               "waferSpecialIdCode": "12344s",
-               "waferSequenceCode": "aas2",
-               "supplierCode": "23gg"
-            },
-            "classificationData": {
-               "characteristicName": "",
-               "characteristicValue": "a",
-               "class": "",
-               "classType": 4
-            },
-            "hierarchyLinkData": {
-               "forecastClass": "",
-               "forecastDevice": "",
-               "forecastPackage": ""
-            },
-            "materialLongText": {
-               "lineNumber": 12345,
-               "applicationObject": "",
-               "textName": "",
-               "textId": 1244
-            }
-         }
-      },
-      "error_id": [
-         null
-      ],
-      "event_status_message": "Success"
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "1b57de0c-fa5d-4010-8243-9d3d92514348",
+      "event_status_message": "Failed"
    },
    {
       "transaction_id": "667659987201620003",
-      "material_type": "a7cf1109-a1b5-4e84-9aa6-c4996a076310",
+      "material_type": "c6a5e509-da64-4511-82eb-4bd0aa503e5c",
       "mmid": "mmid3",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -203,51 +129,14 @@
             }
          }
       },
-      "success_flag": "True",
-      "succes_payload": {
-         "transactionId": "123e4567e89b12d3a456426614174000",
-         "item": {
-            "basicData": {
-               "materialNumber": "",
-               "materialType": "",
-               "materialGroup": "",
-               "grossWeight": 2.3,
-               "transportationGroup": 3,
-               "netWeight": 3,
-               "crossPlantStatusCode": 12,
-               "division": 1,
-               "waferConductivityType": "sdf",
-               "waferSpecialIdCode": "12344s",
-               "waferSequenceCode": "aas2",
-               "supplierCode": "23gg"
-            },
-            "classificationData": {
-               "characteristicName": "",
-               "characteristicValue": "a",
-               "class": "",
-               "classType": 4
-            },
-            "hierarchyLinkData": {
-               "forecastClass": "",
-               "forecastDevice": "",
-               "forecastPackage": ""
-            },
-            "materialLongText": {
-               "lineNumber": 12345,
-               "applicationObject": "",
-               "textName": "",
-               "textId": 1244
-            }
-         }
-      },
-      "error_id": [
-         null
-      ],
-      "event_status_message": "Success"
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "b9a567de-7190-4469-87f7-36214018bd37",
+      "event_status_message": "Failed"
    },
    {
       "transaction_id": "667659987201620005",
-      "material_type": "b893ab24-139f-4f36-9a9c-e47eaa6a5183",
+      "material_type": "828ad8dd-e179-41f1-b093-7cb2aff12807",
       "mmid": "mmid4",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -285,7 +174,7 @@
             }
          }
       },
-      "success_flag": "False",
+      "success_flag": true,
       "succes_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
          "item": {
@@ -322,14 +211,12 @@
             }
          }
       },
-      "error_id": [
-         null
-      ],
+      "error_id": null,
       "event_status_message": "Success"
    },
    {
       "transaction_id": "667659987201620006",
-      "material_type": "3d0def54-fc1c-40dc-b34e-6d9d61087efb",
+      "material_type": "5a3deaa1-910a-4390-98d0-338cb27a9189",
       "mmid": "mmid5",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -367,51 +254,14 @@
             }
          }
       },
-      "success_flag": "True",
-      "succes_payload": {
-         "transactionId": "123e4567e89b12d3a456426614174000",
-         "item": {
-            "basicData": {
-               "materialNumber": "",
-               "materialType": "",
-               "materialGroup": "",
-               "grossWeight": 2.3,
-               "transportationGroup": 3,
-               "netWeight": 3,
-               "crossPlantStatusCode": 12,
-               "division": 1,
-               "waferConductivityType": "sdf",
-               "waferSpecialIdCode": "12344s",
-               "waferSequenceCode": "aas2",
-               "supplierCode": "23gg"
-            },
-            "classificationData": {
-               "characteristicName": "",
-               "characteristicValue": "a",
-               "class": "",
-               "classType": 4
-            },
-            "hierarchyLinkData": {
-               "forecastClass": "",
-               "forecastDevice": "",
-               "forecastPackage": ""
-            },
-            "materialLongText": {
-               "lineNumber": 12345,
-               "applicationObject": "",
-               "textName": "",
-               "textId": 1244
-            }
-         }
-      },
-      "error_id": [
-         null
-      ],
-      "event_status_message": "Success"
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "6de852c0-87d6-454f-93ea-da50a54e71ca",
+      "event_status_message": "Failed"
    },
    {
       "transaction_id": "667659987201620007",
-      "material_type": "7ea85ab0-d277-4df3-9f24-9d1a6034f99f",
+      "material_type": "7f6fb99e-3751-43d8-ade1-51a4e291d7d4",
       "mmid": "mmid6",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -449,51 +299,14 @@
             }
          }
       },
-      "success_flag": "False",
-      "succes_payload": {
-         "transactionId": "123e4567e89b12d3a456426614174000",
-         "item": {
-            "basicData": {
-               "materialNumber": "",
-               "materialType": "",
-               "materialGroup": "",
-               "grossWeight": 2.3,
-               "transportationGroup": 3,
-               "netWeight": 3,
-               "crossPlantStatusCode": 12,
-               "division": 1,
-               "waferConductivityType": "sdf",
-               "waferSpecialIdCode": "12344s",
-               "waferSequenceCode": "aas2",
-               "supplierCode": "23gg"
-            },
-            "classificationData": {
-               "characteristicName": "",
-               "characteristicValue": "a",
-               "class": "",
-               "classType": 4
-            },
-            "hierarchyLinkData": {
-               "forecastClass": "",
-               "forecastDevice": "",
-               "forecastPackage": ""
-            },
-            "materialLongText": {
-               "lineNumber": 12345,
-               "applicationObject": "",
-               "textName": "",
-               "textId": 1244
-            }
-         }
-      },
-      "error_id": [
-         null
-      ],
-      "event_status_message": "Success"
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "910a9aa8-1a8d-40fb-9f75-cc1b69bfb37a",
+      "event_status_message": "Failed"
    },
    {
       "transaction_id": "667659987201620008",
-      "material_type": "5a3deaa1-910a-4390-98d0-338cb27a9189",
+      "material_type": "7ea85ab0-d277-4df3-9f24-9d1a6034f99f",
       "mmid": "mmid7",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -531,7 +344,7 @@
             }
          }
       },
-      "success_flag": "True",
+      "success_flag": true,
       "succes_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
          "item": {
@@ -568,14 +381,12 @@
             }
          }
       },
-      "error_id": [
-         null
-      ],
+      "error_id": null,
       "event_status_message": "Success"
    },
    {
       "transaction_id": "667659987201620009",
-      "material_type": "7f6fb99e-3751-43d8-ade1-51a4e291d7d4",
+      "material_type": "3d0def54-fc1c-40dc-b34e-6d9d61087efb",
       "mmid": "mmid8",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -613,51 +424,14 @@
             }
          }
       },
-      "success_flag": "False",
-      "succes_payload": {
-         "transactionId": "123e4567e89b12d3a456426614174000",
-         "item": {
-            "basicData": {
-               "materialNumber": "",
-               "materialType": "",
-               "materialGroup": "",
-               "grossWeight": 2.3,
-               "transportationGroup": 3,
-               "netWeight": 3,
-               "crossPlantStatusCode": 12,
-               "division": 1,
-               "waferConductivityType": "sdf",
-               "waferSpecialIdCode": "12344s",
-               "waferSequenceCode": "aas2",
-               "supplierCode": "23gg"
-            },
-            "classificationData": {
-               "characteristicName": "",
-               "characteristicValue": "a",
-               "class": "",
-               "classType": 4
-            },
-            "hierarchyLinkData": {
-               "forecastClass": "",
-               "forecastDevice": "",
-               "forecastPackage": ""
-            },
-            "materialLongText": {
-               "lineNumber": 12345,
-               "applicationObject": "",
-               "textName": "",
-               "textId": 1244
-            }
-         }
-      },
-      "error_id": [
-         null
-      ],
-      "event_status_message": "Success"
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "5be5b05d-b44d-4018-8f4f-1f82e8400564",
+      "event_status_message": "Failed"
    },
    {
       "transaction_id": "6676599872016200010",
-      "material_type": "a7cf1109-a1b5-4e84-9aa6-c4996a076310",
+      "material_type": "54d37f62-faf8-4f45-acfb-8ef4b11eaa15",
       "mmid": "mmid9",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -695,7 +469,7 @@
             }
          }
       },
-      "success_flag": "False",
+      "success_flag": true,
       "succes_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
          "item": {
@@ -732,14 +506,12 @@
             }
          }
       },
-      "error_id": [
-         null
-      ],
+      "error_id": null,
       "event_status_message": "Success"
    },
    {
       "transaction_id": "6676599872016200012",
-      "material_type": "5476cbd6-24ad-4eff-8301-06fd62eb7c79",
+      "material_type": "5a3deaa1-910a-4390-98d0-338cb27a9189",
       "mmid": "mmid10",
       "incoming_payload": {
          "transactionId": "123e4567e89b12d3a456426614174000",
@@ -777,46 +549,9 @@
             }
          }
       },
-      "success_flag": "False",
-      "succes_payload": {
-         "transactionId": "123e4567e89b12d3a456426614174000",
-         "item": {
-            "basicData": {
-               "materialNumber": "",
-               "materialType": "",
-               "materialGroup": "",
-               "grossWeight": 2.3,
-               "transportationGroup": 3,
-               "netWeight": 3,
-               "crossPlantStatusCode": 12,
-               "division": 1,
-               "waferConductivityType": "sdf",
-               "waferSpecialIdCode": "12344s",
-               "waferSequenceCode": "aas2",
-               "supplierCode": "23gg"
-            },
-            "classificationData": {
-               "characteristicName": "",
-               "characteristicValue": "a",
-               "class": "",
-               "classType": 4
-            },
-            "hierarchyLinkData": {
-               "forecastClass": "",
-               "forecastDevice": "",
-               "forecastPackage": ""
-            },
-            "materialLongText": {
-               "lineNumber": 12345,
-               "applicationObject": "",
-               "textName": "",
-               "textId": 1244
-            }
-         }
-      },
-      "error_id": [
-         null
-      ],
-      "event_status_message": "Success"
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "55e73878-7f8c-43ee-96bc-1b21fdaabbd2",
+      "event_status_message": "Failed"
    }
 ]
