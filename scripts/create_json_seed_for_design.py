@@ -20,7 +20,7 @@ def generate_sample_data():
             trans["error_id"] = None
             trans["event_status_message"] = "Success"
         else:
-            trans["succes_payload"] = None
+            trans["success_payload"] = None
             trans["error_id"] = f'{random.choice(error_report_id_list)}'
             trans["event_status_message"] = "Failed"
 
