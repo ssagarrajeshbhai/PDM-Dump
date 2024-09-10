@@ -80,10 +80,13 @@ def generate_sample_data():
             trans["error_id"] = f'{random.choice(error_id_list)}'
             trans["event_status_message"] = "Failed"
 
+
+        final_json.append(trans)
         json_df = pd.DataFrame([trans])
 
         ## append the df to the csv file
-        json_df.to_csv(csv_file_path, mode = 'a', header=False, index=False)
+        json_df.to_csv(csv_file_path, mode = 'a', header=True, index=False)
 
+    print(final_json)
 
 a = generate_sample_data()

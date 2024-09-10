@@ -38,14 +38,29 @@ payload_obj = {
     }
 }
 
+success_payload_obj = {
+  "success": "true",
+  "code": "201 - SUCCESS",
+  "data": {
+    "transactionId": "123e4567e89b12d3a456426614174000",
+    "item": {
+      "basicData": {
+        "materialType": "HALB",
+        "materialNumber": "NNNN-NNNN",
+        "alternateNumber": "H90226-001"
+      }
+    }
+  }
+}
+
 
 def generate_sample_data():
     final_json = []
     # for i in range(50):
 
-    for t_id in range(20):
+    for t_id in range(100):
         trans = {
-            "transaction_id": transaction_id_list[t_id],
+            "transaction_id": transaction_id_list[t_id%len(transaction_id_list)],
             "material_type": random.choice(material_type_list),
             "mmid": f'mmid{t_id + 1}',
             "incoming_payload": payload_obj,
@@ -53,7 +68,7 @@ def generate_sample_data():
         }
 
         if trans["success_flag"]:
-            trans["succes_payload"] = trans["incoming_payload"]
+            trans["succes_payload"] = success_payload_obj
             trans["error_id"] = None
             trans["event_status_message"] = "Success"
         else:
@@ -66,6 +81,6 @@ def generate_sample_data():
     return json.dumps(final_json, indent=3)
 
 j_data = generate_sample_data()
-file_name = f'data.json'
+file_name = f'd10.json'
 with open(file_name, 'w') as json_writer:
     json_writer.write(j_data)

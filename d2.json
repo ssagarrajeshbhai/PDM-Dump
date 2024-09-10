@@ -1,0 +1,5100 @@
+[
+   {
+      "transaction_id": "667659987201620001",
+      "material_type": "ad734f9a-7f38-433b-87af-db7884789eee",
+      "mmid": "mmid1",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "a7630f11-c533-4cf1-b62d-3578efbcb70b",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "667659987201620002",
+      "material_type": "2dc4c7c3-ceb4-4ad7-9ca0-19e083acc688",
+      "mmid": "mmid2",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "0a409077-c25f-459f-a8ed-c38a363840d6",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "667659987201620003",
+      "material_type": "7f6fb99e-3751-43d8-ade1-51a4e291d7d4",
+      "mmid": "mmid3",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "40c78d58-5eee-4066-a233-74e103eadc62",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "667659987201620005",
+      "material_type": "2dc4c7c3-ceb4-4ad7-9ca0-19e083acc688",
+      "mmid": "mmid4",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "667659987201620006",
+      "material_type": "c6a5e509-da64-4511-82eb-4bd0aa503e5c",
+      "mmid": "mmid5",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "667659987201620007",
+      "material_type": "54d37f62-faf8-4f45-acfb-8ef4b11eaa15",
+      "mmid": "mmid6",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "667659987201620008",
+      "material_type": "54d37f62-faf8-4f45-acfb-8ef4b11eaa15",
+      "mmid": "mmid7",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "cdfdb570-4501-413f-8349-0eba69bb324b",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "667659987201620009",
+      "material_type": "ebb6a72a-90b8-45b0-b55a-f3a8a8e11b2a",
+      "mmid": "mmid8",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "2c6d82e6-99ad-461a-a34d-7d613ecf7fc8",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200010",
+      "material_type": "c6a5e509-da64-4511-82eb-4bd0aa503e5c",
+      "mmid": "mmid9",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "92c579ff-86ed-4df3-a2a8-be34c308f0b7",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200012",
+      "material_type": "c8379f6d-ad37-4cc4-9158-7931807e09d8",
+      "mmid": "mmid10",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "a96f5d09-184c-444e-b842-e7ef8db89619",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200013",
+      "material_type": "ad734f9a-7f38-433b-87af-db7884789eee",
+      "mmid": "mmid11",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200014",
+      "material_type": "c8379f6d-ad37-4cc4-9158-7931807e09d8",
+      "mmid": "mmid12",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "9ae8470a-528a-467c-a06f-6ef034a014de",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200015",
+      "material_type": "be4704ac-050d-4202-96d5-c5cf0a80eb24",
+      "mmid": "mmid13",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200016",
+      "material_type": "7d2b95cd-a409-4be9-9544-df7cc0ab12a8",
+      "mmid": "mmid14",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "37bdb1ce-e3e3-4702-abb2-1733226bd0b0",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200017",
+      "material_type": "c6a5e509-da64-4511-82eb-4bd0aa503e5c",
+      "mmid": "mmid15",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "9f264b69-92ab-49d7-9e7e-c8137f71dce6",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200018",
+      "material_type": "2dc4c7c3-ceb4-4ad7-9ca0-19e083acc688",
+      "mmid": "mmid16",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "e6900672-8b42-406b-9111-1fc8f066fa5a",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200019",
+      "material_type": "54d37f62-faf8-4f45-acfb-8ef4b11eaa15",
+      "mmid": "mmid17",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "8af48f91-e7b8-4fd2-99d7-5bcb40274df0",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200020",
+      "material_type": "4aa7306a-6e4b-49b3-b731-8dcfd2582126",
+      "mmid": "mmid18",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "e4553644-9b1f-4966-b8cc-c937bf79b6b6",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200021",
+      "material_type": "7f6fb99e-3751-43d8-ade1-51a4e291d7d4",
+      "mmid": "mmid19",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200022",
+      "material_type": "c6ff77b4-752f-4500-8c64-6134926fface",
+      "mmid": "mmid20",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200024",
+      "material_type": "14d1b704-4747-4d51-a1e8-f33bace90bdb",
+      "mmid": "mmid21",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200025",
+      "material_type": "70082d29-dab0-4d80-8e63-2e08cedb0ea1",
+      "mmid": "mmid22",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "b2547df2-8029-4a83-bbe6-e1e08eac788d",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200026",
+      "material_type": "7ea85ab0-d277-4df3-9f24-9d1a6034f99f",
+      "mmid": "mmid23",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200027",
+      "material_type": "70082d29-dab0-4d80-8e63-2e08cedb0ea1",
+      "mmid": "mmid24",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200028",
+      "material_type": "14d1b704-4747-4d51-a1e8-f33bace90bdb",
+      "mmid": "mmid25",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200029",
+      "material_type": "b893ab24-139f-4f36-9a9c-e47eaa6a5183",
+      "mmid": "mmid26",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "e6e2c257-a97b-4652-b280-fe94a1cc6951",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200030",
+      "material_type": "50633b2f-641a-4a2b-b61a-a80fd9a1b662",
+      "mmid": "mmid27",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200031",
+      "material_type": "7d2b95cd-a409-4be9-9544-df7cc0ab12a8",
+      "mmid": "mmid28",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "2ebac46e-cf10-4d0a-9e47-b83b631219b7",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200033",
+      "material_type": "5a3deaa1-910a-4390-98d0-338cb27a9189",
+      "mmid": "mmid29",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200034",
+      "material_type": "8121a91c-51c4-4e9b-8058-08e159298ae8",
+      "mmid": "mmid30",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "8d2dc808-7a1b-4e50-871c-41f9504aafc8",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200035",
+      "material_type": "5476cbd6-24ad-4eff-8301-06fd62eb7c79",
+      "mmid": "mmid31",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "259d87c1-3b9f-4566-8f8e-2b4f85180acb",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200036",
+      "material_type": "d0b1903f-d523-4776-9d01-6a90efb9cf9d",
+      "mmid": "mmid32",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200037",
+      "material_type": "4aa7306a-6e4b-49b3-b731-8dcfd2582126",
+      "mmid": "mmid33",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "996c34de-85ec-482e-a071-cc45aee427eb",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200038",
+      "material_type": "2dc4c7c3-ceb4-4ad7-9ca0-19e083acc688",
+      "mmid": "mmid34",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "1b57de0c-fa5d-4010-8243-9d3d92514348",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200039",
+      "material_type": "4e90a1a4-dd68-4dc4-ace3-a9939971bb12",
+      "mmid": "mmid35",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "48f4dcad-65a5-4c9c-8261-dbda367f6baa",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200040",
+      "material_type": "a7cf1109-a1b5-4e84-9aa6-c4996a076310",
+      "mmid": "mmid36",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200041",
+      "material_type": "a7cf1109-a1b5-4e84-9aa6-c4996a076310",
+      "mmid": "mmid37",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200044",
+      "material_type": "4e90a1a4-dd68-4dc4-ace3-a9939971bb12",
+      "mmid": "mmid38",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "d523bf1d-b504-4dae-95fe-646fb2736e47",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200045",
+      "material_type": "ebb6a72a-90b8-45b0-b55a-f3a8a8e11b2a",
+      "mmid": "mmid39",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "1eae4ada-296a-488c-9db9-7541b290622f",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200046",
+      "material_type": "14d1b704-4747-4d51-a1e8-f33bace90bdb",
+      "mmid": "mmid40",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "3a6c4067-5f7e-42d7-b562-350a7d5928c2",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200047",
+      "material_type": "ebb6a72a-90b8-45b0-b55a-f3a8a8e11b2a",
+      "mmid": "mmid41",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "c98b5d99-0433-489c-9e7d-da7f008ea7ae",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200048",
+      "material_type": "7ea85ab0-d277-4df3-9f24-9d1a6034f99f",
+      "mmid": "mmid42",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200049",
+      "material_type": "7ea85ab0-d277-4df3-9f24-9d1a6034f99f",
+      "mmid": "mmid43",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200050",
+      "material_type": "14d1b704-4747-4d51-a1e8-f33bace90bdb",
+      "mmid": "mmid44",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200051",
+      "material_type": "b893ab24-139f-4f36-9a9c-e47eaa6a5183",
+      "mmid": "mmid45",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200052",
+      "material_type": "50633b2f-641a-4a2b-b61a-a80fd9a1b662",
+      "mmid": "mmid46",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "b64db508-ab7d-437a-aa22-218bf64fe2cd",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200060",
+      "material_type": "ad734f9a-7f38-433b-87af-db7884789eee",
+      "mmid": "mmid47",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "cce364de-99d7-4e57-9a32-c9a6ef73098d",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200061",
+      "material_type": "7f6fb99e-3751-43d8-ade1-51a4e291d7d4",
+      "mmid": "mmid48",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200062",
+      "material_type": "bf47e8b7-f2f7-4639-8c82-c57f676312e2",
+      "mmid": "mmid49",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "5a01b3a5-f222-4bdf-8044-00b7e8fa6fad",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200063",
+      "material_type": "d0b1903f-d523-4776-9d01-6a90efb9cf9d",
+      "mmid": "mmid50",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "afa8a9d2-a6a3-4eb0-a515-bfbfbb6ee7b0",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200066",
+      "material_type": "bf47e8b7-f2f7-4639-8c82-c57f676312e2",
+      "mmid": "mmid51",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200067",
+      "material_type": "b893ab24-139f-4f36-9a9c-e47eaa6a5183",
+      "mmid": "mmid52",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200068",
+      "material_type": "c8379f6d-ad37-4cc4-9158-7931807e09d8",
+      "mmid": "mmid53",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200069",
+      "material_type": "a7cf1109-a1b5-4e84-9aa6-c4996a076310",
+      "mmid": "mmid54",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "00801918-499e-4904-8a44-b5baf8daebc8",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200070",
+      "material_type": "bf47e8b7-f2f7-4639-8c82-c57f676312e2",
+      "mmid": "mmid55",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200071",
+      "material_type": "14d1b704-4747-4d51-a1e8-f33bace90bdb",
+      "mmid": "mmid56",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "b64db508-ab7d-437a-aa22-218bf64fe2cd",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200072",
+      "material_type": "d0b1903f-d523-4776-9d01-6a90efb9cf9d",
+      "mmid": "mmid57",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "66765998720162008013",
+      "material_type": "d0b1903f-d523-4776-9d01-6a90efb9cf9d",
+      "mmid": "mmid58",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "66765998720162008014",
+      "material_type": "be4704ac-050d-4202-96d5-c5cf0a80eb24",
+      "mmid": "mmid59",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "00801918-499e-4904-8a44-b5baf8daebc8",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008015",
+      "material_type": "4e90a1a4-dd68-4dc4-ace3-a9939971bb12",
+      "mmid": "mmid60",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "48f4dcad-65a5-4c9c-8261-dbda367f6baa",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008016",
+      "material_type": "a7cf1109-a1b5-4e84-9aa6-c4996a076310",
+      "mmid": "mmid61",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "66765998720162008017",
+      "material_type": "7ea85ab0-d277-4df3-9f24-9d1a6034f99f",
+      "mmid": "mmid62",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "7fdf0ea5-56e7-4b24-a873-a42ba8022846",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008019",
+      "material_type": "ad734f9a-7f38-433b-87af-db7884789eee",
+      "mmid": "mmid63",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "66765998720162008021",
+      "material_type": "c8379f6d-ad37-4cc4-9158-7931807e09d8",
+      "mmid": "mmid64",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "b64db508-ab7d-437a-aa22-218bf64fe2cd",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008022",
+      "material_type": "828ad8dd-e179-41f1-b093-7cb2aff12807",
+      "mmid": "mmid65",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "6de852c0-87d6-454f-93ea-da50a54e71ca",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008023",
+      "material_type": "7f6fb99e-3751-43d8-ade1-51a4e291d7d4",
+      "mmid": "mmid66",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "1705720d-be42-45c5-9283-3d20e646392d",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008024",
+      "material_type": "70082d29-dab0-4d80-8e63-2e08cedb0ea1",
+      "mmid": "mmid67",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "2ebac46e-cf10-4d0a-9e47-b83b631219b7",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008025",
+      "material_type": "54d37f62-faf8-4f45-acfb-8ef4b11eaa15",
+      "mmid": "mmid68",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "01779e88-a4aa-4c43-bda7-fa87291c971a",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008026",
+      "material_type": "5476cbd6-24ad-4eff-8301-06fd62eb7c79",
+      "mmid": "mmid69",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "66765998720162008027",
+      "material_type": "ebb6a72a-90b8-45b0-b55a-f3a8a8e11b2a",
+      "mmid": "mmid70",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "66765998720162008028",
+      "material_type": "c0287eb4-c7d6-4e20-9330-0374fa8ec47f",
+      "mmid": "mmid71",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "574eb703-3291-4859-9358-569e82d49903",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "66765998720162008029",
+      "material_type": "7d2b95cd-a409-4be9-9544-df7cc0ab12a8",
+      "mmid": "mmid72",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "66765998720162008030",
+      "material_type": "54d37f62-faf8-4f45-acfb-8ef4b11eaa15",
+      "mmid": "mmid73",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "667659987201620001",
+      "material_type": "d0b1903f-d523-4776-9d01-6a90efb9cf9d",
+      "mmid": "mmid74",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "667659987201620002",
+      "material_type": "7f6fb99e-3751-43d8-ade1-51a4e291d7d4",
+      "mmid": "mmid75",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "55e73878-7f8c-43ee-96bc-1b21fdaabbd2",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "667659987201620003",
+      "material_type": "c6ff77b4-752f-4500-8c64-6134926fface",
+      "mmid": "mmid76",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "667659987201620005",
+      "material_type": "ad734f9a-7f38-433b-87af-db7884789eee",
+      "mmid": "mmid77",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "667659987201620006",
+      "material_type": "2dc4c7c3-ceb4-4ad7-9ca0-19e083acc688",
+      "mmid": "mmid78",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "667659987201620007",
+      "material_type": "bf47e8b7-f2f7-4639-8c82-c57f676312e2",
+      "mmid": "mmid79",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "5365cb5b-8702-424a-bf57-b9b0dee79a9d",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "667659987201620008",
+      "material_type": "50633b2f-641a-4a2b-b61a-a80fd9a1b662",
+      "mmid": "mmid80",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "526e2e0d-b785-43f5-abbe-890a8c55afd7",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "667659987201620009",
+      "material_type": "3d0def54-fc1c-40dc-b34e-6d9d61087efb",
+      "mmid": "mmid81",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200010",
+      "material_type": "5a3deaa1-910a-4390-98d0-338cb27a9189",
+      "mmid": "mmid82",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200012",
+      "material_type": "2dc4c7c3-ceb4-4ad7-9ca0-19e083acc688",
+      "mmid": "mmid83",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "6de852c0-87d6-454f-93ea-da50a54e71ca",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200013",
+      "material_type": "828ad8dd-e179-41f1-b093-7cb2aff12807",
+      "mmid": "mmid84",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "a7630f11-c533-4cf1-b62d-3578efbcb70b",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200014",
+      "material_type": "4aa7306a-6e4b-49b3-b731-8dcfd2582126",
+      "mmid": "mmid85",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "d1c69e88-e9f6-42e1-82bf-7b1104b67a6a",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200015",
+      "material_type": "c6ff77b4-752f-4500-8c64-6134926fface",
+      "mmid": "mmid86",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200016",
+      "material_type": "50633b2f-641a-4a2b-b61a-a80fd9a1b662",
+      "mmid": "mmid87",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "8af48f91-e7b8-4fd2-99d7-5bcb40274df0",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200017",
+      "material_type": "70082d29-dab0-4d80-8e63-2e08cedb0ea1",
+      "mmid": "mmid88",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "55e73878-7f8c-43ee-96bc-1b21fdaabbd2",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200018",
+      "material_type": "7f6fb99e-3751-43d8-ade1-51a4e291d7d4",
+      "mmid": "mmid89",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200019",
+      "material_type": "14d1b704-4747-4d51-a1e8-f33bace90bdb",
+      "mmid": "mmid90",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200020",
+      "material_type": "b893ab24-139f-4f36-9a9c-e47eaa6a5183",
+      "mmid": "mmid91",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "a03a757e-ac81-44d4-81ad-03aaa79cbc93",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200021",
+      "material_type": "ebb6a72a-90b8-45b0-b55a-f3a8a8e11b2a",
+      "mmid": "mmid92",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200022",
+      "material_type": "be4704ac-050d-4202-96d5-c5cf0a80eb24",
+      "mmid": "mmid93",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "f67bf73f-1a01-4502-82a4-8dbe703dee44",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200024",
+      "material_type": "5476cbd6-24ad-4eff-8301-06fd62eb7c79",
+      "mmid": "mmid94",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200025",
+      "material_type": "4aa7306a-6e4b-49b3-b731-8dcfd2582126",
+      "mmid": "mmid95",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200026",
+      "material_type": "be4704ac-050d-4202-96d5-c5cf0a80eb24",
+      "mmid": "mmid96",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "b70ab119-e214-4f1d-ae9c-cc2b17b608eb",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200027",
+      "material_type": "c0287eb4-c7d6-4e20-9330-0374fa8ec47f",
+      "mmid": "mmid97",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "f74a8ea6-1849-44b9-9efe-3cd4b79dc663",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200028",
+      "material_type": "ebb6a72a-90b8-45b0-b55a-f3a8a8e11b2a",
+      "mmid": "mmid98",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": true,
+      "succes_payload": {
+         "success": "true",
+         "code": "201 - SUCCESS",
+         "data": {
+            "transactionId": "123e4567e89b12d3a456426614174000",
+            "item": {
+               "basicData": {
+                  "materialType": "HALB",
+                  "materialNumber": "NNNN-NNNN",
+                  "alternateNumber": "H90226-001"
+               }
+            }
+         }
+      },
+      "error_id": null,
+      "event_status_message": "Success"
+   },
+   {
+      "transaction_id": "6676599872016200029",
+      "material_type": "70082d29-dab0-4d80-8e63-2e08cedb0ea1",
+      "mmid": "mmid99",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "a7630f11-c533-4cf1-b62d-3578efbcb70b",
+      "event_status_message": "Failed"
+   },
+   {
+      "transaction_id": "6676599872016200030",
+      "material_type": "2dc4c7c3-ceb4-4ad7-9ca0-19e083acc688",
+      "mmid": "mmid100",
+      "incoming_payload": {
+         "transactionId": "123e4567e89b12d3a456426614174000",
+         "item": {
+            "basicData": {
+               "materialNumber": "",
+               "materialType": "",
+               "materialGroup": "",
+               "grossWeight": 2.3,
+               "transportationGroup": 3,
+               "netWeight": 3,
+               "crossPlantStatusCode": 12,
+               "division": 1,
+               "waferConductivityType": "sdf",
+               "waferSpecialIdCode": "12344s",
+               "waferSequenceCode": "aas2",
+               "supplierCode": "23gg"
+            },
+            "classificationData": {
+               "characteristicName": "",
+               "characteristicValue": "a",
+               "class": "",
+               "classType": 4
+            },
+            "hierarchyLinkData": {
+               "forecastClass": "",
+               "forecastDevice": "",
+               "forecastPackage": ""
+            },
+            "materialLongText": {
+               "lineNumber": 12345,
+               "applicationObject": "",
+               "textName": "",
+               "textId": 1244
+            }
+         }
+      },
+      "success_flag": false,
+      "succes_payload": null,
+      "error_id": "c6543c3b-b5c9-4f8e-9982-618baf1e5fa6",
+      "event_status_message": "Failed"
+   }
+]
