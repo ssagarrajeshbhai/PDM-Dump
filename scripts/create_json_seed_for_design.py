@@ -1,4 +1,4 @@
-from dummy_request_data import transaction_id_list, material_type_list, payload_id_list, success_flag, error_id_list
+from dummy_request_data import transaction_id_list,error_report_id_list, material_type_list, payload_id_list, success_flag, error_id_list
 import random, json
 
 op_payload_id = "b8b176c4-a0e7-4874-a32d-363f01f6c8ce"
@@ -21,7 +21,7 @@ def generate_sample_data():
             trans["event_status_message"] = "Success"
         else:
             trans["succes_payload"] = None
-            trans["error_id"] = f'{random.choice(error_id_list)}'
+            trans["error_id"] = f'{random.choice(error_report_id_list)}'
             trans["event_status_message"] = "Failed"
 
         final_json.append(trans)
