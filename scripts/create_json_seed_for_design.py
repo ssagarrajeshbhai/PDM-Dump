@@ -6,7 +6,7 @@ def generate_sample_data():
     final_json = []
     # for i in range(50):
 
-    for t_id in range(1000):
+    for t_id in range(5000):
         trans = {
             "transaction_id": transaction_id_list[t_id%len(transaction_id_list)],
             "material_type": random.choice(material_type_list),
@@ -29,6 +29,6 @@ def generate_sample_data():
     return json.dumps(final_json, indent=3)
 
 j_data = generate_sample_data()
-file_name = f'design2.json'
+file_name = f'design5000.json'
 with open(file_name, 'w') as json_writer:
     json_writer.write(j_data)
