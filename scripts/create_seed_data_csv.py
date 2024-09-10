@@ -1,5 +1,9 @@
+import pandas as pd
 from dummy_request_data import transaction_id_list, material_type_list, success_flag, error_id_list
 import random, json
+
+csv_file_path = 'data.csv'
+columns = ['transaction_id', 'material_type', 'mmid', 'incoming_payload', 'success_flag', 'succes_payload', 'error_id', 'event_status_message']
 
 payload_obj = {
     "transactionId": "123e4567e89b12d3a456426614174000",
@@ -61,11 +65,10 @@ def generate_sample_data():
             trans["error_id"] = f'{random.choice(error_id_list)}'
             trans["event_status_message"] = "Failed"
 
-        final_json.append(trans)
+        json_df = pd.DataFrame([trans])
 
-    return json.dumps(final_json, indent=3)
+        ## append the df to the csv file
+        json_df.to_csv(csv_file_path, mode = 'a', header=False, index=False)
 
-j_data = generate_sample_data()
-file_name = f'data.json'
-with open(file_name, 'w') as json_writer:
-    json_writer.write(j_data)
+
+a = generate_sample_data()
