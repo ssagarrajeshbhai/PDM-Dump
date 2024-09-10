@@ -42,6 +42,21 @@ payload_obj = {
     }
 }
 
+success_payload_obj = {
+  "success": "true",
+  "code": "201 - SUCCESS",
+  "data": {
+    "transactionId": "123e4567e89b12d3a456426614174000",
+    "item": {
+      "basicData": {
+        "materialType": "HALB",
+        "materialNumber": "NNNN-NNNN",
+        "alternateNumber": "H90226-001"
+      }
+    }
+  }
+}
+
 
 def generate_sample_data():
     final_json = []
@@ -57,7 +72,7 @@ def generate_sample_data():
         }
 
         if trans["success_flag"]:
-            trans["succes_payload"] = trans["incoming_payload"]
+            trans["succes_payload"] = success_payload_obj
             trans["error_id"] = None
             trans["event_status_message"] = "Success"
         else:
