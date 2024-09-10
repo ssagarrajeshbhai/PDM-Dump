@@ -4,7 +4,7 @@ transaction_id_path = r"C:\Users\ssagarrajeshbhai\PycharmProjects\PDM-Dump\src\r
 material_type_path = r"C:\Users\ssagarrajeshbhai\PycharmProjects\PDM-Dump\src\material_type_data.csv"
 dummy_error_id_path = r"C:\Users\ssagarrajeshbhai\PycharmProjects\PDM-Dump\src\dummy_error_data.csv"
 payload_id_path = r"C:\Users\ssagarrajeshbhai\PycharmProjects\PDM-Dump\src\payload_ids.csv"
-error_report_id_path =r"C:\Users\ssagarrajeshbhai\PycharmProjects\PDM-Dump\src\payload_ids.csv"
+error_report_id_path =r"C:\Users\ssagarrajeshbhai\PycharmProjects\PDM-Dump\src\error_report_ids.csv"
 
 transaction_id_df = pd.read_csv(transaction_id_path)
 material_type_df = pd.read_csv(material_type_path)
@@ -22,3 +22,4 @@ error_report_id_list = error_report_id_df['id'].tolist() #this is to seed the de
 # print(transaction_id_list)
 # print(material_type_list)
 # print(error_id_list)
+print(len(error_report_id_list))

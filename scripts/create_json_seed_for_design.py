@@ -29,6 +29,6 @@ def generate_sample_data():
     return json.dumps(final_json, indent=3)
 
 j_data = generate_sample_data()
-file_name = f'design_json.json'
+file_name = f'design2.json'
 with open(file_name, 'w') as json_writer:
     json_writer.write(j_data)
