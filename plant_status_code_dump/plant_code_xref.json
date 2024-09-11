@@ -1,0 +1,4766 @@
+[
+    {
+        "plant_code": "ODS",
+        "sap_plant_code": "AL  ",
+        "s4_plant_code": "ODS_DUMMY",
+        "observation": "Future state values are yet to be populated"
+    },
+    {
+        "plant_code": "ASX",
+        "sap_plant_code": "ASX ",
+        "s4_plant_code": "ASX_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F12",
+        "sap_plant_code": "AZ02",
+        "s4_plant_code": "F12_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F32",
+        "sap_plant_code": "AZ02",
+        "s4_plant_code": "F32_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F42",
+        "sap_plant_code": "AZ02",
+        "s4_plant_code": "F42_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SX2",
+        "sap_plant_code": "AZ02",
+        "s4_plant_code": "SX2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F32",
+        "sap_plant_code": "AZ03",
+        "s4_plant_code": "F32_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A04",
+        "sap_plant_code": "AZ04",
+        "s4_plant_code": "A04_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A04",
+        "sap_plant_code": "AZ04",
+        "s4_plant_code": "A04_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A10",
+        "sap_plant_code": "AZ04",
+        "s4_plant_code": "A10_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AZ04",
+        "sap_plant_code": "AZ04",
+        "s4_plant_code": "AZ04_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T11",
+        "sap_plant_code": "AZ04",
+        "s4_plant_code": "T11_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T11",
+        "sap_plant_code": "AZ04",
+        "s4_plant_code": "T11_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T15",
+        "sap_plant_code": "AZ04",
+        "s4_plant_code": "T15_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T41",
+        "sap_plant_code": "AZ04",
+        "s4_plant_code": "T41_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A52",
+        "sap_plant_code": "AZ08",
+        "s4_plant_code": "A52_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TFV",
+        "sap_plant_code": "CA01",
+        "s4_plant_code": "TFV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FJA",
+        "sap_plant_code": "CA07",
+        "s4_plant_code": "FJA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CA21",
+        "sap_plant_code": "CA21",
+        "s4_plant_code": "CA21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CN19",
+        "sap_plant_code": "CN19",
+        "s4_plant_code": "CN19_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CN20",
+        "sap_plant_code": "CN20",
+        "s4_plant_code": "CN20_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A46",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "A46_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A46",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "A46_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A47",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "A47_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A48",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "A48_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNA2",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "CNA2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S46",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "S46_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STW",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "STW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T47",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "T47_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T48",
+        "sap_plant_code": "CNA2",
+        "s4_plant_code": "T48_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AKY",
+        "sap_plant_code": "CNA8",
+        "s4_plant_code": "AKY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNA8",
+        "sap_plant_code": "CNA8",
+        "s4_plant_code": "CNA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SKY",
+        "sap_plant_code": "CNA8",
+        "s4_plant_code": "SKY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STC",
+        "sap_plant_code": "CNA8",
+        "s4_plant_code": "STC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TA8",
+        "sap_plant_code": "CNA8",
+        "s4_plant_code": "TA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TAS",
+        "sap_plant_code": "CNA8",
+        "s4_plant_code": "TAS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "THY",
+        "sap_plant_code": "CNA8",
+        "s4_plant_code": "THY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNA9",
+        "sap_plant_code": "CNA9",
+        "s4_plant_code": "CNA9_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A46",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "A46_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A47",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "A47_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A48",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "A48_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FC3",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "FC3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FC4",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "FC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FC5",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "FC5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S3C",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "S3C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S4C",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "S4C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S5C",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "S5C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S71",
+        "sap_plant_code": "CNB1",
+        "s4_plant_code": "S71_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "68A",
+        "sap_plant_code": "CNB2",
+        "s4_plant_code": "68A_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "68P",
+        "sap_plant_code": "CNB2",
+        "s4_plant_code": "68P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F68",
+        "sap_plant_code": "CNB2",
+        "s4_plant_code": "F68_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S68",
+        "sap_plant_code": "CNB2",
+        "s4_plant_code": "S68_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS06",
+        "sap_plant_code": "CNC2",
+        "s4_plant_code": "CS06_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS45",
+        "sap_plant_code": "CNC2",
+        "s4_plant_code": "CS45_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB5",
+        "sap_plant_code": "CNC2",
+        "s4_plant_code": "CSB5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB7",
+        "sap_plant_code": "CNC2",
+        "s4_plant_code": "CSB7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC9",
+        "sap_plant_code": "CNC2",
+        "s4_plant_code": "CSC9_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSD5CNC2",
+        "sap_plant_code": "CNC2",
+        "s4_plant_code": "CSD5CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSD9CNC2",
+        "sap_plant_code": "CNC2",
+        "s4_plant_code": "CSD9CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS13CNC4",
+        "sap_plant_code": "CNC4",
+        "s4_plant_code": "CS13CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS30",
+        "sap_plant_code": "CNC4",
+        "s4_plant_code": "CS30_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB4",
+        "sap_plant_code": "CNC4",
+        "s4_plant_code": "CSB4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB4CNC4",
+        "sap_plant_code": "CNC4",
+        "s4_plant_code": "CSB4CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CND4",
+        "sap_plant_code": "CND4",
+        "s4_plant_code": "CND4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CND5",
+        "sap_plant_code": "CND5",
+        "s4_plant_code": "CND5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A46",
+        "sap_plant_code": "CNE8",
+        "s4_plant_code": "A46_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A47",
+        "sap_plant_code": "CNE8",
+        "s4_plant_code": "A47_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A48",
+        "sap_plant_code": "CNE8",
+        "s4_plant_code": "A48_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNE8",
+        "sap_plant_code": "CNE8",
+        "s4_plant_code": "CNE8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S46",
+        "sap_plant_code": "CNE8",
+        "s4_plant_code": "S46_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T47",
+        "sap_plant_code": "CNE8",
+        "s4_plant_code": "T47_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T48",
+        "sap_plant_code": "CNE8",
+        "s4_plant_code": "T48_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNE9",
+        "sap_plant_code": "CNE9",
+        "s4_plant_code": "CNE9_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "68A",
+        "sap_plant_code": "CNF1",
+        "s4_plant_code": "68A_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "68P",
+        "sap_plant_code": "CNF1",
+        "s4_plant_code": "68P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F68",
+        "sap_plant_code": "CNF1",
+        "s4_plant_code": "F68_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S68",
+        "sap_plant_code": "CNF1",
+        "s4_plant_code": "S68_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "68A",
+        "sap_plant_code": "CNF2",
+        "s4_plant_code": "68A_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "68P",
+        "sap_plant_code": "CNF2",
+        "s4_plant_code": "68P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F68",
+        "sap_plant_code": "CNF2",
+        "s4_plant_code": "F68_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S68",
+        "sap_plant_code": "CNF2",
+        "s4_plant_code": "S68_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNF3",
+        "sap_plant_code": "CNF3",
+        "s4_plant_code": "CNF3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC7",
+        "sap_plant_code": "CNF3",
+        "s4_plant_code": "CSC7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC8",
+        "sap_plant_code": "CNF3",
+        "s4_plant_code": "CSC8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNF5",
+        "sap_plant_code": "CNF5",
+        "s4_plant_code": "CNF5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNF6",
+        "sap_plant_code": "CNF6",
+        "s4_plant_code": "CNF6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CR01",
+        "sap_plant_code": "CR01",
+        "s4_plant_code": "CR01_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A06",
+        "sap_plant_code": "CRA1",
+        "s4_plant_code": "A06_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CRA1",
+        "sap_plant_code": "CRA1",
+        "s4_plant_code": "CRA1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T66",
+        "sap_plant_code": "CRA1",
+        "s4_plant_code": "T66_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A06",
+        "sap_plant_code": "CRA2",
+        "s4_plant_code": "A06_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CRA6",
+        "sap_plant_code": "CRA6",
+        "s4_plant_code": "CRA6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T66",
+        "sap_plant_code": "CRA6",
+        "s4_plant_code": "T66_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A06",
+        "sap_plant_code": "CRA7",
+        "s4_plant_code": "A06_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TTK",
+        "sap_plant_code": "CS69",
+        "s4_plant_code": "TTK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A04",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "A04_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A46",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "A46_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A90",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "A90_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AAL",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "AAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ACS",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "ACS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AS2",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "AS2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BAC",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "BAC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BK4",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "BK4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BTF",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "BTF_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "D1C",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "D1C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAE",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "FAE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSA",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "FSA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FWA",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "FWA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "OTD",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "OTD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S1C",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "S1C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAL",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "SAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SSA",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "SSA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STC",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "STC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T11",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "T11_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T3P",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "T3P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TDS",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "TDS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "THY",
+        "sap_plant_code": "DEA1",
+        "s4_plant_code": "THY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AA8",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AAS",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AAS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AB2",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ACS",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "ACS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ADS",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "ADS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AHE",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AHE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AK4",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AK4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AKY",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AKY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AS1",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AS2",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AS2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATT",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "ATT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AYI",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "AYI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BA8",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "BA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BAC",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "BAC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BK4",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "BK4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BS1",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "BS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BSN",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "BSN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BT1",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "BT1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BTF",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "BTF_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BTW",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "BTW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAC",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FAC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAD",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FAD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAE",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FAE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FJA",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FJA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSN",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FSN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTF",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FTF_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FUI",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FUI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FUM",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FUM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYM",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "FYM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SA8",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "SA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAW",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "SAW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SB2",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "SB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SDK",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "SDK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SKY",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "SKY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SS1",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "SS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STC",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "STC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T3P",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "T3P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TA8",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "TA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TAS",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "TAS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TB2",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "TB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TDK",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "TDK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TDS",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "TDS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TKC",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "TKC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TS1",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "TS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TWN",
+        "sap_plant_code": "DEA4",
+        "s4_plant_code": "TWN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TTK",
+        "sap_plant_code": "HKA6",
+        "s4_plant_code": "TTK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F14",
+        "sap_plant_code": "IE01",
+        "s4_plant_code": "F14_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SX4",
+        "sap_plant_code": "IE01",
+        "s4_plant_code": "SX4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F24",
+        "sap_plant_code": "IE02",
+        "s4_plant_code": "F24_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S24",
+        "sap_plant_code": "IE02",
+        "s4_plant_code": "S24_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F14",
+        "sap_plant_code": "IEA1",
+        "s4_plant_code": "F14_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SX4",
+        "sap_plant_code": "IEA1",
+        "s4_plant_code": "SX4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F24",
+        "sap_plant_code": "IEA2",
+        "s4_plant_code": "F24_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F24",
+        "sap_plant_code": "IEA2",
+        "s4_plant_code": "F24_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S24",
+        "sap_plant_code": "IEA2",
+        "s4_plant_code": "S24_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F34",
+        "sap_plant_code": "IEA4",
+        "s4_plant_code": "F34_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F08",
+        "sap_plant_code": "IL01",
+        "s4_plant_code": "F08_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F28",
+        "sap_plant_code": "IL03",
+        "s4_plant_code": "F28_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S28",
+        "sap_plant_code": "IL03",
+        "s4_plant_code": "S28_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F08",
+        "sap_plant_code": "ILA1",
+        "s4_plant_code": "F08_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S08",
+        "sap_plant_code": "ILA1",
+        "s4_plant_code": "S08_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F28",
+        "sap_plant_code": "ILA3",
+        "s4_plant_code": "F28_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S28",
+        "sap_plant_code": "ILA3",
+        "s4_plant_code": "S28_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S28",
+        "sap_plant_code": "ILA3",
+        "s4_plant_code": "S28_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AJR",
+        "sap_plant_code": "ILA4",
+        "s4_plant_code": "AJR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TXA",
+        "sap_plant_code": "KRA5",
+        "s4_plant_code": "TXA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MA01",
+        "sap_plant_code": "MA01",
+        "s4_plant_code": "MA01_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FX6",
+        "sap_plant_code": "MA02",
+        "s4_plant_code": "FX6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SX6",
+        "sap_plant_code": "MA02",
+        "s4_plant_code": "SX6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SX7",
+        "sap_plant_code": "MA02",
+        "s4_plant_code": "SX7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TMV",
+        "sap_plant_code": "MA02",
+        "s4_plant_code": "TMV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A13",
+        "sap_plant_code": "MYA4",
+        "s4_plant_code": "A13_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A18",
+        "sap_plant_code": "MYA4",
+        "s4_plant_code": "A18_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MYA4",
+        "sap_plant_code": "MYA4",
+        "s4_plant_code": "MYA4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T38",
+        "sap_plant_code": "MYA4",
+        "s4_plant_code": "T38_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A11",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "A11_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A3E",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "A3E_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AA8",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AA8",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AAS",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AAS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AAS",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AAS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AAV",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AAV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AB2",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AB6",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AB6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ABD",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ABD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ACM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ACM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ACS",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ACS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ADM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ADM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ADM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ADM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AGB",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AGB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AHE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AHE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AIM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AIM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AK4",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AK4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AKK",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AKK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AKM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AKM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AKY",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AKY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ANP",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ANP_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AP1",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AP1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "APG",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "APG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "API",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "API_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AS1",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AS2",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AS2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ASJ",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ASJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATC",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ATC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATS",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ATS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ATT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATW",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "ATW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AX6",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AX6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AYI",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "AYI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BA8",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BAC",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BAC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BAD",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BAD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BCR",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BCR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BGG",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BGG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BHE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BHE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BK4",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BK4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BK5",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BK5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BNP",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BNP_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BPG",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BPG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BS1",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BS2",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BS2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BSN",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BSN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BT1",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BT1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BTE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BTE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BTF",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BTF_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BTW",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "BTW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F03",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "F03_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAC",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FAC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAD",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FAD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FAE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAV",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FAV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FCR",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FCR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FCS",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FCS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FEJ",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FEJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FGD",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FGD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FGE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FGE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FGG",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FGG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FGM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FGM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FIT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FIT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FJA",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FJA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FJT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FJT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FMM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FMM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FMT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FMT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FNM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FNM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSA",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FSA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FSM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSN",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FSN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSU",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FSU_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FTE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTF",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FTF_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FTT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FUI",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FUI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FUI",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FUI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FUM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FUM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FWE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FWE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FWT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FWT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYL",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FYL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "FYM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MYA5",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "MYA5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S26",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "S26_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S40",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "S40_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S5P",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "S5P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SA8",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAC",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SAC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAD",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SAD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAV",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SAV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAW",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SAW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SB2",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC1",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SC1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC2",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC3",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SC3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SDK",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SDK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SDM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SDM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SEJ",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SEJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SGE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SGE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SHH",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SHH_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SIT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SIT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SJA",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SJA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SJT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SJT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SK4",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SK4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SKL",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SKL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SKY",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SKY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SMM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SMM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SMT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SMT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SNM",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SNM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SP3",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SP3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SS1",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SS2",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SS2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SSA",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SSA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STC",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "STC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STE",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "STE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STF",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "STF_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STS",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "STS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "STT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SWT",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SWT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SYL",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "SYL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T26",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "T26_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T31",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "T31_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T3P",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "T3P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T40",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "T40_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T5P",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "T5P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TA8",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TAS",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TAS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TB2",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TB6",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TB6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TDK",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TDK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TDS",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TDS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "THY",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "THY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TKC",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TKC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TKL",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TKL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TP3",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TP3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TS1",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TS2",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TS2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TWN",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TWN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TX6",
+        "sap_plant_code": "MYA5",
+        "s4_plant_code": "TX6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A13",
+        "sap_plant_code": "MYA6",
+        "s4_plant_code": "A13_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A18",
+        "sap_plant_code": "MYA6",
+        "s4_plant_code": "A18_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A11",
+        "sap_plant_code": "MYA8",
+        "s4_plant_code": "A11_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S78",
+        "sap_plant_code": "MYA8",
+        "s4_plant_code": "S78_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T31",
+        "sap_plant_code": "MYA8",
+        "s4_plant_code": "T31_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AB6",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "AB6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AK5",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "AK5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "API",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "API_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AX6",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "AX6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AYC",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "AYC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AYE",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "AYE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AYI",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "AYI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BPG",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "BPG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BY5",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "BY5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BYB",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "BYB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BYF",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "BYF_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FWT",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FWT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYA",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYB",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYC",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYD",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYE",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYF",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYF_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYG",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYJ",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FYM",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "FYM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SCN",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "SCN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SWT",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "SWT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SYI",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "SYI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T41",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "T41_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TB6",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "TB6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TX6",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "TX6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TXA",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "TXA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TYA",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "TYA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TYM",
+        "sap_plant_code": "MYA9",
+        "s4_plant_code": "TYM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MYB0",
+        "sap_plant_code": "MYB0",
+        "s4_plant_code": "MYB0_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T88",
+        "sap_plant_code": "MYB0",
+        "s4_plant_code": "T88_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A15",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "A15_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AB2",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "AB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AKP",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "AKP_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FET",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "FET_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FLL",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "FLL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FLN",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "FLN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FMK",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "FMK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FRE",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "FRE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FRS",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "FRS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSE",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "FSE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTJ",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "FTJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MYB1",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "MYB1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S4I",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "S4I_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T25",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "T25_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T39",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "T39_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TB2",
+        "sap_plant_code": "MYB1",
+        "s4_plant_code": "TB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A15",
+        "sap_plant_code": "MYB2",
+        "s4_plant_code": "A15_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MYB6",
+        "sap_plant_code": "MYB6",
+        "s4_plant_code": "MYB6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A21",
+        "sap_plant_code": "MYB7",
+        "s4_plant_code": "A21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A15",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "A15_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AB2",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "AB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MYB9",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "MYB9_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S4I",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "S4I_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T25",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "T25_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T39",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "T39_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TB2",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "TB2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TB6",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "TB6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TS1",
+        "sap_plant_code": "MYB9",
+        "s4_plant_code": "TS1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A33",
+        "sap_plant_code": "MYC0",
+        "s4_plant_code": "A33_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S33",
+        "sap_plant_code": "MYC0",
+        "s4_plant_code": "S33_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS28MYC2",
+        "sap_plant_code": "MYC2",
+        "s4_plant_code": "CS28MYC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSD3",
+        "sap_plant_code": "MYC2",
+        "s4_plant_code": "CSD3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSD4MYC2",
+        "sap_plant_code": "MYC2",
+        "s4_plant_code": "CSD4MYC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSD6",
+        "sap_plant_code": "MYC2",
+        "s4_plant_code": "CSD6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSD6MYC2",
+        "sap_plant_code": "MYC2",
+        "s4_plant_code": "CSD6MYC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A21",
+        "sap_plant_code": "MYD3",
+        "s4_plant_code": "A21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A21",
+        "sap_plant_code": "MYD4",
+        "s4_plant_code": "A21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "68P",
+        "sap_plant_code": "MYD7",
+        "s4_plant_code": "68P_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATW",
+        "sap_plant_code": "MYD7",
+        "s4_plant_code": "ATW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MYD7",
+        "sap_plant_code": "MYD7",
+        "s4_plant_code": "MYD7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S68",
+        "sap_plant_code": "MYD7",
+        "s4_plant_code": "S68_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MYD8",
+        "sap_plant_code": "MYD8",
+        "s4_plant_code": "MYD8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BY5",
+        "sap_plant_code": "MYE5",
+        "s4_plant_code": "BY5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TXA",
+        "sap_plant_code": "MYE5",
+        "s4_plant_code": "TXA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A88",
+        "sap_plant_code": "MYE8",
+        "s4_plant_code": "A88_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AMY",
+        "sap_plant_code": "MYF7",
+        "s4_plant_code": "AMY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "DMY",
+        "sap_plant_code": "MYF7",
+        "s4_plant_code": "DMY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F26PCW1",
+        "sap_plant_code": "MYF7",
+        "s4_plant_code": "F26PCW1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SMY",
+        "sap_plant_code": "MYF7",
+        "s4_plant_code": "SMY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AMY",
+        "sap_plant_code": "MYF8",
+        "s4_plant_code": "AMY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "DMY",
+        "sap_plant_code": "MYF8",
+        "s4_plant_code": "DMY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SMY",
+        "sap_plant_code": "MYF8",
+        "s4_plant_code": "SMY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F21",
+        "sap_plant_code": "NM02",
+        "s4_plant_code": "F21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F21",
+        "sap_plant_code": "NM02",
+        "s4_plant_code": "F21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F21",
+        "sap_plant_code": "NM02",
+        "s4_plant_code": "F21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FC9",
+        "sap_plant_code": "NM02",
+        "s4_plant_code": "FC9_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S21",
+        "sap_plant_code": "NM02",
+        "s4_plant_code": "S21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S9C",
+        "sap_plant_code": "NM02",
+        "s4_plant_code": "S9C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARR",
+        "sap_plant_code": "NM03",
+        "s4_plant_code": "ARR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARR",
+        "sap_plant_code": "NM03",
+        "s4_plant_code": "ARR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARR",
+        "sap_plant_code": "NM03",
+        "s4_plant_code": "ARR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "DRR",
+        "sap_plant_code": "NM03",
+        "s4_plant_code": "DRR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SRR",
+        "sap_plant_code": "NM03",
+        "s4_plant_code": "SRR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A17",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "A17_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A38",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "A38_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A3G",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "A3G_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A3S",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "A3S_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A4A",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "A4A_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A4B",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "A4B_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A89",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "A89_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AA1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AA1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AA2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AA2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AAA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AAA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AB1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AB1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ABE",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ABE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AC1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AC1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AD4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AD4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ADJ",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ADJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ADP",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ADP_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ADT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ADT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ADU",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ADU_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ADV",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ADV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AFX",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AFX_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AH1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AH1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AH2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AH2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AHA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AHA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AHT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AHT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AKG",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AKG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AKS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AKS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AMA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AMA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AME",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AME_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AMH",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AMH_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AMI",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AMI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AMT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AMT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "APS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "APS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "APT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "APT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "APW",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "APW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ASN",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ASN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AST",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AST_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ATC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATL",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ATL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ATU",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "ATU_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AVX",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AVX_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AWA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AWA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AWT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AWT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AZ2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AZ2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AZT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "AZT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BAL",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "BAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "BM1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "BM1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CD4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CD4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CNT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CNT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CPC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CPC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CPT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CPT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CRY",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CRY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS03",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS03_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS03CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS03CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS06CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS06CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS07",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS07_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS07MYB5",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS07MYB5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS10",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS10_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS10CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS10CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS13",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS13_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS15",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS15_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS15CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS15CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS21",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS21_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS21CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS21CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS30CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS30CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS39",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS39_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS39CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS39CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS45CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS45CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS47",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS47_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS47CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS47CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS51",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS51_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS51CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS51CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS52",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS52_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS52CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS52CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS55",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS55_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS73",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS73_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS73MXA1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS73MXA1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS82",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS82_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS82CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS82CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS89",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS89_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS89OR08",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS89OR08_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS96",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS96_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CS96CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CS96CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSA1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSA1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSA1CNC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSA1CNC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSB1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB1CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSB1CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB5CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSB5CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB7CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSB7CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB9",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSB9_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSB9CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSB9CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC2CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC2CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC3",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC3OR08",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC3OR08_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC4MYC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC4MYC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC5",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC5CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC5CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC6",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC6OR08",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC6OR08_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC7CNF3",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC7CNF3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC8CNF3",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC8CNF3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSC9CNC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSC9CNC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CSD3MYC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CSD3MYC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CVC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CVC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "CYC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "CYC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "D06",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "D06_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "D1X",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "D1X_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "DSB",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "DSB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F19",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F19_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F20",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F20_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F26",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F26_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F2T",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F2T_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F48",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F48_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F49",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F49_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F4A",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F4A_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F4B",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F4B_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F4G",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F4G_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F4I",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F4I_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F4J",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F4J_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F4N",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F4N_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F4S",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F4S_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F4T",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "F4T_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAB ZZZ",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FAB ZZZ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FBC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FBC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FCO",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FCO_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FCY",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FCY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FDB",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FDB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FDM",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FDM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FE2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FE2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FEL",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FEL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FFJ",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FFJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FFS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FFS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FG13",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FG13_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FG15",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FG15_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FHC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FHC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FHH",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FHH_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FIV",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FIV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FJU",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FJU_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FLX",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FLX_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FMB",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FMB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FMJ",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FMJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FNC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FNC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FND",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FND_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FNS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FNS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FNY",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FNY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FOB",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FOB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FR2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FR2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSJ",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FSJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FSS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FSS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTB",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FTB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTD",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FTD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTK",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FTK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTO",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FTO_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTP",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FTP_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FTW",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FTW_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FVG",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FVG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FVI",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FVI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FVL",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FVL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FVR",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FVR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FVS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FVS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FVT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FVT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FX2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "FX2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "GMM",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "GMM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "HIT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "HIT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "HJN",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "HJN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "IC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "IC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "IMFT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "IMFT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "IMI",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "IMI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "LOG",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "LOG_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "LSI",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "LSI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MA8",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "MA8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MEC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "MEC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MGS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "MGS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MJS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "MJS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MSA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "MSA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "MT1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "MT1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "NCR",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "NCR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "NEC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "NEC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "NEM",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "NEM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "NPN",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "NPN_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "OKI",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "OKI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "OSM",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "OSM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PAC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PAC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PC1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PC1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PC1BP",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PC1BP_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PC5",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PC5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PC6",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PC6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PH2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PH2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PHS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PHS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "PYC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "PYC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "RAD",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "RAD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "RIL",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "RIL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "RLA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "RLA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "RNY",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "RNY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "RTO",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "RTO_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S11",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "S11_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S88",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "S88_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAE",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SAE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAR",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SAR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SC1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SC2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC3",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SC3_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SC4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC5",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SC5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC6",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SC6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SC7",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SC7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SCO",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SCO_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SDC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SDC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SEP",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SEP_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SF1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SF1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SF7",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SF7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SFB",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SFB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SFV",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SFV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SFV",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SFV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SGD",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SGD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SHK",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SHK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SKH",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SKH_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SLA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SLA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SNY",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SNY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SR2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SR2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STL",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "STL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STR",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "STR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STU",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "STU_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SYT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "SYT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T01",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T01_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T03GD",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T03GD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T03JA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T03JA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T03PD",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T03PD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T06",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T06_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T07",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T07_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T10",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T10_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T12",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T12_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T14",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T14_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T20",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T20_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T32",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T32_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T4A",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T4A_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T4N",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T4N_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T4Q",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T4Q_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T67",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T67_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T68",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T68_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T72",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T72_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T73",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T73_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T75",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T75_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T96",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T96_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T97",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "T97_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TA1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TA1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TA2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TA2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TA4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TA4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TA5",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TA5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TAV",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TAV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TB7",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TB7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TD4",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TD4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TD5",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TD5_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TD6",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TD6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TDT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TDT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TDU",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TDU_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TDV",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TDV_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TES",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TES_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TF6",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TF6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TGD",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TGD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TH1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TH1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "THA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "THA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TJ2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TJ2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TMT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TMT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TNE",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TNE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TNK",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TNK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TOK",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TOK_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TOQ",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TOQ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TOT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TOT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TPL",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TPL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TPT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TPT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TSA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TSA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TSE",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TSE_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TSI",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TSI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TSJ",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TSJ_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TSP",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TSP_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TSR",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TSR_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TTC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TTC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TTO",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TTO_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TTS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TTS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TUM",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TUM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TVC",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TVC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TVL",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TVL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TVM",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TVM_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TWY",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TWY_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TXT",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TXT_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TZ1",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TZ1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TZ2",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "TZ2_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "USA",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "USA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "VLS",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "VLS_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "VSI",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "VSI_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "XGB",
+        "sap_plant_code": NaN,
+        "s4_plant_code": "XGB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AAL",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "AAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AAL",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "AAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "D1F",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "D1F_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAL",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "FAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAL",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "FAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAL",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "FAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FAL",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "FAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FC6",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "FC6_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FC7",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "FC7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "FC8",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "FC8_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "OTD",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "OTD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "OTD",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "OTD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S09",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "S09_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S6C",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "S6C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S7C",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "S7C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S8C",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "S8C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAL",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "SAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SAL",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "SAL_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SD1",
+        "sap_plant_code": "OR03",
+        "s4_plant_code": "SD1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "D1C",
+        "sap_plant_code": "OR05",
+        "s4_plant_code": "D1C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "S1C",
+        "sap_plant_code": "OR05",
+        "s4_plant_code": "S1C_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AM7",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "AM7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AR4",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "AR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AR4",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "AR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AR4",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "AR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARA",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "ARA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARA",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "ARA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARA",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "ARA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AS7",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "AS7_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "D1D",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "D1D_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "DR4",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "DR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "DRA",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "DRA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "OTD",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "OTD_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "RB1",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "RB1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "RB1",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "RB1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SR4",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "SR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SRA",
+        "sap_plant_code": "OR06",
+        "s4_plant_code": "SRA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AR4",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "AR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AR4",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "AR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "AR4",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "AR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARA",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "ARA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARA",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "ARA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "ARA",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "ARA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "DR4",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "DR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "DRA",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "DRA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SR4",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "SR4_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SRA",
+        "sap_plant_code": "OR12",
+        "s4_plant_code": "SRA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "SG09",
+        "sap_plant_code": "SG09",
+        "s4_plant_code": "SG09_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "STC",
+        "sap_plant_code": "STC ",
+        "s4_plant_code": "STC_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TSX",
+        "sap_plant_code": "TSX ",
+        "s4_plant_code": "TSX_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "TX01",
+        "sap_plant_code": "TX01",
+        "s4_plant_code": "TX01_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A90",
+        "sap_plant_code": "VNA1",
+        "s4_plant_code": "A90_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T90",
+        "sap_plant_code": "VNA1",
+        "s4_plant_code": "T90_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "VNA1",
+        "sap_plant_code": "VNA1",
+        "s4_plant_code": "VNA1_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "A90",
+        "sap_plant_code": "VNA2",
+        "s4_plant_code": "A90_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T90",
+        "sap_plant_code": "VNA2",
+        "s4_plant_code": "T90_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "V01",
+        "sap_plant_code": "VP01",
+        "s4_plant_code": "V01_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "V02",
+        "sap_plant_code": "VP02",
+        "s4_plant_code": "V02_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "V04",
+        "sap_plant_code": "VP04",
+        "s4_plant_code": "V04_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "V05",
+        "sap_plant_code": "VP05",
+        "s4_plant_code": "V05_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "V06",
+        "sap_plant_code": "VP06",
+        "s4_plant_code": "V06_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "WCHA",
+        "sap_plant_code": "WCHA",
+        "s4_plant_code": "WCHA_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "WKLB",
+        "sap_plant_code": "WKLB",
+        "s4_plant_code": "WKLB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "WMNB",
+        "sap_plant_code": "WMNB",
+        "s4_plant_code": "WMNB_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "F03",
+        "sap_plant_code": "WPNA",
+        "s4_plant_code": "F03_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "T30",
+        "sap_plant_code": "WPNA",
+        "s4_plant_code": "T30_DUMMY",
+        "observation": NaN
+    },
+    {
+        "plant_code": "WPNA",
+        "sap_plant_code": "WPNA",
+        "s4_plant_code": "WPNA_DUMMY",
+        "observation": NaN
+    }
+]
