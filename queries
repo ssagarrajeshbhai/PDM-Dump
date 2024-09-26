@@ -1,0 +1,13 @@
+WITH existing_numbers AS (
+    SELECT DISTINCT number
+    FROM your_table_name
+    WHERE number IS NOT NULL
+), 
+to_seed AS (
+    SELECT ROW_NUMBER() OVER () + COALESCE((SELECT MAX(number) FROM existing_numbers), 0) AS new_number
+    FROM generate_series(1, (SELECT COUNT(*) FROM your_table_name) - (SELECT COUNT(*) FROM existing_numbers)) AS gs
+)
+UPDATE your_table_name
+SET number = (SELECT new_number FROM to_seed LIMIT 1 OFFSET (SELECT COUNT(*) FROM your_table_name) - (SELECT COUNT(*) FROM existing_numbers) - 1)
+WHERE number IS NULL
+RETURNING *;
