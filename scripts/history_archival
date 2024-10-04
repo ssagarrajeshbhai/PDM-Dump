@@ -1,13 +1,13 @@
 -- Create archival_log table
 CREATE TABLE archival_log (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    archival_batch_id VARCHAR(36) NOT NULL,
-    start_time DATETIME NOT NULL,
-    end_time DATETIME,
+    id SERIAL PRIMARY KEY,
+    archival_batch_id UUID NOT NULL,
+    start_time TIMESTAMP NOT NULL,
+    end_time TIMESTAMP,
     success_flag BOOLEAN,
     records_archived INT,
     error_message TEXT,
-    additional_info JSON
+    additional_info JSONB
 );
  
 -- Create archive tables
@@ -17,10 +17,10 @@ CREATE TABLE archive_incoming_requests (
     id INT PRIMARY KEY,
     transaction_id VARCHAR(255),
     source VARCHAR(255),
-    created_at DATETIME,
-    other_metadata JSON,
-    archived_at DATETIME,
-    archival_batch_id VARCHAR(36)
+    created_at TIMESTAMP,
+    other_metadata JSONB,
+    archived_at TIMESTAMP,
+    archival_batch_id UUID
 );
  
 -- Archive table for event_logs
@@ -35,18 +35,18 @@ CREATE TABLE archive_event_logs (
     success_payload TEXT,
     event_type VARCHAR(255),
     event_status_message TEXT,
-    created_at DATETIME,
-    archived_at DATETIME,
-    archival_batch_id VARCHAR(36)
+    created_at TIMESTAMP,
+    archived_at TIMESTAMP,
+    archival_batch_id UUID
 );
  
 -- Archive table for payload_info
 CREATE TABLE archive_payload_info (
     id INT PRIMARY KEY,
     payload TEXT,
-    created_at DATETIME,
-    archived_at DATETIME,
-    archival_batch_id VARCHAR(36)
+    created_at TIMESTAMP,
+    archived_at TIMESTAMP,
+    archival_batch_id UUID
 );
  
 -- Archive table for error_report
@@ -57,9 +57,9 @@ CREATE TABLE archive_error_report (
     mmid INT,
     error_raised_in VARCHAR(255),
     severity VARCHAR(50),
-    created_at DATETIME,
-    archived_at DATETIME,
-    archival_batch_id VARCHAR(36)
+    created_at TIMESTAMP,
+    archived_at TIMESTAMP,
+    archival_batch_id UUID
 );
  
 -- Archive table for zroh_material_number_history
@@ -67,8 +67,8 @@ CREATE TABLE archive_zroh_material_number_history (
     id INT PRIMARY KEY,
     alternate_id VARCHAR(255),
     request_id INT,
-    archived_at DATETIME,
-    archival_batch_id VARCHAR(36)
+    archived_at TIMESTAMP,
+    archival_batch_id UUID
 );
  
 -- Archive table for material_type_material_number_mapping
@@ -78,10 +78,10 @@ CREATE TABLE archive_material_type_material_number_mapping (
     latest_mmid INT,
     start_range INT,
     end_range INT,
-    updated_at DATETIME,
+    updated_at TIMESTAMP,
     last_used_material VARCHAR(255),
-    archived_at DATETIME,
-    archival_batch_id VARCHAR(36)
+    archived_at TIMESTAMP,
+    archival_batch_id UUID
 );
  
 -- Create indexes on archival_batch_id for each archive table
@@ -92,95 +92,88 @@ CREATE INDEX idx_archival_batch_id ON archive_error_report(archival_batch_id);
 CREATE INDEX idx_archival_batch_id ON archive_zroh_material_number_history(archival_batch_id);
 CREATE INDEX idx_archival_batch_id ON archive_material_type_material_number_mapping(archival_batch_id);
  
--- Archival Process Stored Procedure
-DELIMITER //
- 
-CREATE PROCEDURE perform_archival()
+-- Archival Process Function
+CREATE OR REPLACE FUNCTION perform_archival() RETURNS VOID AS $$
+DECLARE
+    archival_batch_id UUID;
+    log_id INT;
+    records_archived INT := 0;
+    error_message TEXT;
 BEGIN
-    -- Declare variables
-    DECLARE archival_batch_id VARCHAR(36);
-    DECLARE log_id INT;
-    DECLARE records_archived INT DEFAULT 0;
-    DECLARE error_message TEXT;
- 
     -- Generate a new UUID for this archival batch
-    SET archival_batch_id = UUID();
+    archival_batch_id := gen_random_uuid();
  
     -- Start the archival process and log the start time
     INSERT INTO archival_log (archival_batch_id, start_time)
-    VALUES (archival_batch_id, NOW());
-    SET log_id = LAST_INSERT_ID();
+    VALUES (archival_batch_id, NOW())
+    RETURNING id INTO log_id;
  
     -- Start transaction
-    START TRANSACTION;
- 
     BEGIN
-        DECLARE CONTINUE HANDLER FOR SQLEXCEPTION
-        BEGIN
-            GET DIAGNOSTICS CONDITION 1
-            error_message = MESSAGE_TEXT;
-            ROLLBACK;
-            -- Log error
-            UPDATE archival_log
-            SET end_time = NOW(),
-                success_flag = FALSE,
-                error_message = error_message
-            WHERE id = log_id;
-            SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = error_message;
-        END;
- 
         -- Archive incoming_requests
-        INSERT INTO archive_incoming_requests
-        SELECT id, transaction_id, source, created_at, other_metadata, NOW(), archival_batch_id
-        FROM incoming_requests
-        WHERE created_at < DATE_SUB(NOW(), INTERVAL 3 MONTH);
-        
-        SET records_archived = records_archived + ROW_COUNT();
+        WITH archived_requests AS (
+            INSERT INTO archive_incoming_requests
+            SELECT id, transaction_id, source, created_at, other_metadata, NOW(), archival_batch_id
+            FROM incoming_requests
+            WHERE created_at < NOW() - INTERVAL '3 months'
+            RETURNING id
+        )
+        SELECT COUNT(*) INTO records_archived FROM archived_requests;
  
         -- Archive event_logs
-        INSERT INTO archive_event_logs
-        SELECT e.*, NOW(), archival_batch_id
-        FROM event_logs e
-        JOIN archive_incoming_requests air ON e.transaction_id = air.transaction_id
-        WHERE air.archival_batch_id = archival_batch_id;
-        
-        SET records_archived = records_archived + ROW_COUNT();
+        WITH archived_events AS (
+            INSERT INTO archive_event_logs
+            SELECT e.*, NOW(), archival_batch_id
+            FROM event_logs e
+            JOIN archive_incoming_requests air ON e.transaction_id = air.transaction_id
+            WHERE air.archival_batch_id = archival_batch_id
+            RETURNING id
+        )
+        SELECT records_archived + COUNT(*) INTO records_archived FROM archived_events;
  
         -- Archive payload_info
-        INSERT INTO archive_payload_info
-        SELECT pi.*, NOW(), archival_batch_id
-        FROM payload_info pi
+        WITH archived_payloads AS (
+            INSERT INTO archive_payload_info
+            SELECT pi.*, NOW(), archival_batch_id
+            FROM payload_info pi
 JOIN archive_event_logs ael ON pi.id = ael.id
-        WHERE ael.archival_batch_id = archival_batch_id;
-        
-        SET records_archived = records_archived + ROW_COUNT();
+            WHERE ael.archival_batch_id = archival_batch_id
+            RETURNING id
+        )
+        SELECT records_archived + COUNT(*) INTO records_archived FROM archived_payloads;
  
         -- Archive error_report
-        INSERT INTO archive_error_report
-        SELECT er.*, NOW(), archival_batch_id
-        FROM error_report er
+        WITH archived_errors AS (
+            INSERT INTO archive_error_report
+            SELECT er.*, NOW(), archival_batch_id
+            FROM error_report er
 JOIN archive_event_logs ael ON er.id = ael.error_id
-        WHERE ael.archival_batch_id = archival_batch_id;
-        
-        SET records_archived = records_archived + ROW_COUNT();
+            WHERE ael.archival_batch_id = archival_batch_id
+            RETURNING id
+        )
+        SELECT records_archived + COUNT(*) INTO records_archived FROM archived_errors;
  
         -- Archive zroh_material_number_history
-        INSERT INTO archive_zroh_material_number_history
-        SELECT zmnh.*, NOW(), archival_batch_id
-        FROM zroh_material_number_history zmnh
+        WITH archived_history AS (
+            INSERT INTO archive_zroh_material_number_history
+            SELECT zmnh.*, NOW(), archival_batch_id
+            FROM zroh_material_number_history zmnh
 JOIN archive_incoming_requests air ON zmnh.request_id = air.id
-        WHERE air.archival_batch_id = archival_batch_id;
-        
-        SET records_archived = records_archived + ROW_COUNT();
+            WHERE air.archival_batch_id = archival_batch_id
+            RETURNING id
+        )
+        SELECT records_archived + COUNT(*) INTO records_archived FROM archived_history;
  
         -- Archive material_type_material_number_mapping
-        INSERT INTO archive_material_type_material_number_mapping
-        SELECT mtmnm.*, NOW(), archival_batch_id
-        FROM material_type_material_number_mapping mtmnm
+        WITH archived_mapping AS (
+            INSERT INTO archive_material_type_material_number_mapping
+            SELECT mtmnm.*, NOW(), archival_batch_id
+            FROM material_type_material_number_mapping mtmnm
 JOIN archive_event_logs ael ON mtmnm.id = ael.mmid
-        WHERE ael.archival_batch_id = archival_batch_id;
-        
-        SET records_archived = records_archived + ROW_COUNT();
+            WHERE ael.archival_batch_id = archival_batch_id
+            RETURNING id
+        )
+        SELECT records_archived + COUNT(*) INTO records_archived FROM archived_mapping;
  
         -- Delete archived data from original tables
         DELETE FROM material_type_material_number_mapping
@@ -201,20 +194,33 @@ JOIN archive_event_logs ael ON mtmnm.id = ael.mmid
         DELETE FROM incoming_requests
         WHERE id IN (SELECT id FROM archive_incoming_requests WHERE archival_batch_id = archival_batch_id);
  
-        -- Commit transaction
-        COMMIT;
- 
         -- Log successful completion
         UPDATE archival_log
         SET end_time = NOW(),
             success_flag = TRUE,
             records_archived = records_archived,
-            additional_info = JSON_OBJECT('tables_archived', JSON_ARRAY('incoming_requests', 'event_logs', 'payload_info', 'error_report', 'zroh_material_number_history', 'material_type_material_number_mapping'))
+            additional_info = jsonb_build_object('tables_archived', jsonb_build_array('incoming_requests', 'event_logs', 'payload_info', 'error_report', 'zroh_material_number_history', 'material_type_material_number_mapping'))
         WHERE id = log_id;
-    END;
-END //
  
-DELIMITER ;
+    EXCEPTION WHEN OTHERS THEN
+        -- Get the error message
+        GET STACKED DIAGNOSTICS error_message = MESSAGE_TEXT;
+        
+        -- Rollback the transaction
+        ROLLBACK;
+        
+        -- Log error
+        UPDATE archival_log
+        SET end_time = NOW(),
+            success_flag = FALSE,
+            error_message = error_message
+        WHERE id = log_id;
+        
+        -- Re-raise the exception
+        RAISE EXCEPTION 'Archival process failed: %', error_message;
+    END;
+END;
+$$ LANGUAGE plpgsql;
  
 -- To run the archival process:
--- CALL perform_archival();
+-- SELECT perform_archival();
